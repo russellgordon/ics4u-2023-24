@@ -15,3 +15,5 @@ Now we should see the favicon, hopefully working
  let z = x * y
  print(z)
 ```
+
+![Screenshot 2023-10-17 at 9.13.36 AM.png](/img/user/Media/Screenshot%202023-10-17%20at%209.13.36%E2%80%AFAM.png)
