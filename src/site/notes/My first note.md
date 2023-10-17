@@ -6,3 +6,5 @@
 Hello world!
 
 This is a change, and another change
+
+Now we should see the favicon
