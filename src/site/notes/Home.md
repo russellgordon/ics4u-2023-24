@@ -9,7 +9,7 @@
 
 
 
-### Thread 1, Day 1 - Tuesday, October 17, 2023
+### Thread 1, Day 2 - Wednesday, October 18, 2023
 #### Agenda
 1. Source Control: GitHub Account
 	- If necessary, creating an account
