@@ -8,7 +8,7 @@ Xcodes is an app to manage the installation of different versions of Xcode:
 
 ![Screenshot 2023-10-17 at 9.44.18 AM.png|400](/img/user/Media/Screenshot%202023-10-17%20at%209.44.18%E2%80%AFAM.png)
 
-You can directly [download Xcodes](https://github.com/XcodesOrg/xcodesapp/releases/latest.zip) here; an [overview of the app can be found here](https://www.xcodes.app).
+You can directly [download Xcodes](https://github.com/XcodesOrg/XcodesApp/releases/download/v1.10.0b18/Xcodes.zip) here; an [overview of the app can be found here](https://www.xcodes.app).
 
 Once downloaded, you will have a compressed file:
 
@@ -25,5 +25,8 @@ The Xcodes app makes this easy; just be sure to use, from the menu bar, **Xcodes
 ![Screenshot 2023-01-17 at 6.18.40 AM.png|400](/img/user/Media/Screenshot%202023-01-17%20at%206.18.40%20AM.png)
 
 ...and then provide your LCS Apple ID information (this is what gives you access to Apple Developer resources).
+
+> [!TIP]
+> If you don't yet have your LCS Apple ID, check your LCS email. Accept the invitation to join the Apple Developer Program. Create a new Apple ID based on your LCS email address. It is best to keep all of this separate from any existing Apple ID(s) you may already have.
   
 You can then use Xcodes to remove older versions of Xcode from your computer before or after installing a new version (depending on how much available disk space you have).
