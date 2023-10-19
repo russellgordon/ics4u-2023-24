@@ -19,6 +19,6 @@
 6. Portfolio: [[Portfolios/Creating a Notion Account\|Creating a Notion Account]]
 	- Please create a bookmark for your portfolio page in Notion.
 7. Activity: Developing a Sorting Algorithm
-## Things to do before our next class
+###### Things to do before our next class
 - [ ] Install required software as described above.
 - [ ] Be sure you and your partner(s) have posted your sorting algorithm video to your portfolio [in Notion](https://notion.so).
