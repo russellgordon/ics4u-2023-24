@@ -29,8 +29,7 @@
 
 ###### Things to do before our next class
 - [ ] Do your best to finish implementing your sorting algorithm.
-	- Use source control as you go – commit and push often.
-	- Post [on Notion](https://notion.so) to share your progress.
+	- Post [on Notion](https://notion.so) to share your progress, regardless of whether you were able to successfully finish the task.
 
 </div></div>
 
