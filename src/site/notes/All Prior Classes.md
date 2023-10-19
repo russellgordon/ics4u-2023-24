@@ -27,7 +27,7 @@
 1. Xcode: Creating a Command-Line Project
 1. Activity: Implementing a Sort Algorithm 
 
-## Things to do before our next class
+###### Things to do before our next class
 - [ ] Do your best to finish implementing your sorting algorithm.
 	- Use source control as you go – commit and push often.
 	- Post [on Notion](https://notion.so) to share your progress.
@@ -57,7 +57,7 @@
 6. Portfolio: [[Portfolios/Creating a Notion Account\|Creating a Notion Account]]
 	- Please create a bookmark for your portfolio page in Notion.
 7. Activity: Developing a Sorting Algorithm
-## Things to do before our next class
+###### Things to do before our next class
 - [ ] Install required software as described above.
 - [ ] Be sure you and your partner(s) have posted your sorting algorithm video to your portfolio [in Notion](https://notion.so).
 
