@@ -46,10 +46,8 @@ body {
         padding-inline-start: 2em !important;
     }
 
-    /* I honestly can't remember what this does... */
-    .community-item-screenshot,
-    .markdown-preview-view img,
-    .markdown-rendered img {
+    /* Ensure images and GIFs in Safari are not pixelated */
+    img {
         image-rendering: auto !important;
     }
 
