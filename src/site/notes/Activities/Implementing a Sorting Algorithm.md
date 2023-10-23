@@ -14,7 +14,7 @@ Many students, when asked to come up with a sorting algorithm for a list of numb
 
 Visually, that looks like this:
 
-![OnePassSort.gif](/img/user/Media/OnePassSort.gif)
+![OnePassSort.gif|250](/img/user/Media/OnePassSort.gif)
 ## Create the array
 
 How might we implement what is described above?
