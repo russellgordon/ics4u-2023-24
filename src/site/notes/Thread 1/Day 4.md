@@ -11,10 +11,12 @@
 	- Do not mark comments as resolved in Notion so that the record of our conversation is preserved and easy to see at a glance.
 1. Discussion: Productive Use of Generative AI
 	- Looking at an example of when we might use a large language model to advance learning in this course.
-1. Activity: [[Activities/Implementing a Sorting Algorithm\|Implementing a Sorting Algorithm]]
+1. Discussion: How to Obtain Your Electronic Textbooks
+	- How to get your copies of *SwiftUI Views Mastery* and *Working with Data in SwiftUI*
+2. Activity: [[Activities/Implementing a Sorting Algorithm\|Implementing a Sorting Algorithm]]
 	- Complete this activity to solidify your understanding of core programming concepts (loops and selection statements) and begin to build your understanding of sorting algorithms.
 	- Be sure to make a portfolio post on [Notion](https://notion.so) after completing the activity.
-1. Activity: [[Activities/Magic 8 Ball\|Magic 8 Ball]] 
+3. Activity: [[Activities/Magic 8 Ball\|Magic 8 Ball]] 
 	-  Complete this activity to review the implementation of a simple user interface using SwiftUI.
 
 ###### Things to do before our next class
