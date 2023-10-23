@@ -204,7 +204,7 @@ for i in 0...dataSet.count - 1 - 1 {
 }
 ```
 
-## Exercise
+## Exercises
 
 The examples above illustrate how to:
 
