@@ -8,10 +8,34 @@
 
 ### Thread 1
 
+- [[All Prior Classes#Thread 1, Day 4 - Monday, October 23, 2023\|Day 4 - Monday, October 23, 2023]]
 - [[All Prior Classes#Thread 1, Day 3 - Thursday, October 19, 2023\|Day 3 - Thursday, October 19, 2023]]
 - [[All Prior Classes#Thread 1, Day 2 - Wednesday, October 18, 2023\|Day 2 - Wednesday, October 18, 2023]]
 - [[All Prior Classes#Thread 1, Day 1 - Tuesday, October 17, 2023\|Day 1 - Tuesday, October 17, 2023]]
 
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-1/day-4/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+### Thread 1, Day 4 - Monday, October 23, 2023
+#### Agenda
+1. Portfolio: [[Portfolios/Sharing Long Blocks of Code\|Sharing Long Blocks of Code]]
+	- Share code, not screenshots of code.
+	- Please continue to use screenshots to show the *results* of code being run.
+2. Portfolio: [[Portfolios/Handling Comments on Posts\|Handling Comments on Posts]]
+	- Do not mark comments as resolved in Notion so that the record of our conversation is preserved and easy to see at a glance.
+3. Activity: [[Implementing a Sorting Algorithm\|Implementing a Sorting Algorithm]]
+	- Complete this activity to solidify your understanding of core programming concepts (loops and selection statements) and begin to build your understanding of sorting algorithms.
+	- Be sure to make a portfolio post on [Notion](https://notion.so) after completing the activity.
+
+###### Things to do before our next class
+- [ ] Work on your implementation of the generative art algorithm.
+
+</div></div>
+
+<small>[[All Prior Classes#Thread 1\|Back to top of thread 1 ⬆]]</small>
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-1/day-3/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
