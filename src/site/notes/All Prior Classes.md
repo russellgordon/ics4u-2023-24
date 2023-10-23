@@ -35,7 +35,10 @@
 	-  Complete this activity to review the implementation of a simple user interface using SwiftUI.
 
 ###### Things to do before our next class
-- [ ] Work on your implementation of the generative art algorithm.
+- [ ] Spent time on tasks as needed to demonstrate your understanding of tasks we have recently looked at:
+	- sorting algorithms (operations with lists of data)
+	- generative art (working with control structures)
+	- Magic 8 Ball (building interfaces and using lists in SwiftUI)
 
 </div></div>
 
