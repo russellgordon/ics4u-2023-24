@@ -12,7 +12,7 @@
 ### Thread 1, Day 5 - Tuesday, October 24, 2023
 #### Agenda
 1. Activity: Generative Art (SwiftUI)
-	- How can we implement these rules using SwiftUI?
+	- How can we [[Images/Introduction to Generative Art\|implement these rules]] using SwiftUI?
 ###### Things to do before our next class
 - [ ] Spent time on tasks as needed to demonstrate your understanding of tasks we have recently looked at:
 	- sorting algorithms (operations with lists of data)
