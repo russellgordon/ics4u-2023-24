@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/thread-1/day-6/","dgHomeLink":true}
 ---
 
-### Thread 1, Day 5 - Tuesday, October 24, 2023
+### Thread 1, Day 6 - Thursday, October 26, 2023
 #### Agenda
 1. Warmup: Defining Custom Shapes
 	- Revisit your understanding of how to define custom shapes.
