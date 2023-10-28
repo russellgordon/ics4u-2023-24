@@ -9,8 +9,8 @@
 	- Attempt to define a path in the `Arrow` struct so that you can [[Media/Rotating Arrow\|have an app that has this functionality]].
 	- First create a new Xcode project named **Rotating Arrow**.
 	- Then you can [use this code to get started](https://gist.github.com/russellgordon/a81ee78143d2680624f4f6d751068968) – all you need to do is fill in the `Arrow` structure's `path` function.
-2. Activity: Generative Art (SwiftUI) – Part 2 of 2
-	- Finishing our [[Images/Introduction to Generative Art\|implementation of these rules]] using SwiftUI.
+2. Activity: Generative Art (SwiftUI) – Part 2 of 3
+	- More progress on our [[Images/Introduction to Generative Art\|implementation of these rules]] using SwiftUI.
 3. Exercise: Create a "Bento-Box" Layout
 	- Marketing teams must be able to convey new features in a concise manner to an audience.
 	- In recent years, Apple has used "Bento-Box" graphics to do so.
