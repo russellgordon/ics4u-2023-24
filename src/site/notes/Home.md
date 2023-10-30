@@ -13,7 +13,9 @@
 #### Agenda
 1. Activity: Building a Create Task Exemplar
 	- We will [[Media/Spelling\|build an app]] that meets requirements for the AP CSP Create Task.
-		- [Fork and clone this repository](https://github.com/lcs-rgordon/Spelling) to get started.
+		- The app's audience is elementary school students.
+		- It's beneficial effect, or purpose, is to help young children to spell and to accurately identify food items.
+		- [Fork and clone this repository](https://github.com/lcs-rgordon/Spelling) to get started with developing the app.
 		> [!NOTE]
 		> If you were absent for today's class, you can [view the history of commits](https://github.com/russellgordon/Spelling/commits/main) made as we developed the app today in class.
 		> 
