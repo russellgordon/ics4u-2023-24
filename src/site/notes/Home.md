@@ -25,7 +25,7 @@
 	- Compare the completed app to the [requirements given for this year's Create Task](https://apcentral.collegeboard.org/media/pdf/ap-csp-student-task-directions.pdf).
 	- Begin generating responses to [last year's prompts](https://drive.google.com/file/d/1YCKrDj-Ud4qD4EEZFk9MPuER5cS9_im0/view?usp=share_link).
 ###### Things to do before our next class
-- [ ] Do your best to author rough written responses to the prompts for last year's AP CSP Create Task based on the exemplar built today.
+- [ ] Do your best to author rough written responses to [the prompts for last year's AP CSP Create Task](https://drive.google.com/file/d/1YCKrDj-Ud4qD4EEZFk9MPuER5cS9_im0/view?usp=share_link) based on [the exemplar built today](https://github.com/russellgordon/Spelling/commits/main).
 - [ ] We will then discuss in our class tomorrow morning.
 
 </div></div>
