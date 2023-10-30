@@ -40,7 +40,7 @@
 	- Begin generating responses to [last year's prompts](https://russellgordon.ca/lcs/2023-24/ics4u/AP_Create_Task_2022-23_-_Submission_Requirements.pdf#page=3).
 ###### Things to do before our next class
 - [ ] Do your best to author rough written responses to [the prompts for last year's AP CSP Create Task](https://russellgordon.ca/lcs/2023-24/ics4u/AP_Create_Task_2022-23_-_Submission_Requirements.pdf#page=3) based on [the exemplar built today](https://github.com/russellgordon/Spelling/commits/main).
-- [ ] We will then discuss in our class tomorrow morning.
+	- We will then discuss and compare responses in our class tomorrow morning.
 
 </div></div>
 
