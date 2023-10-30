@@ -16,7 +16,7 @@
 		> 
 		> Have a look at the changes for each commit and that should help you understand how the app was developed.
 	- Compare the completed app to the [requirements given for this year's Create Task](https://apcentral.collegeboard.org/media/pdf/ap-csp-student-task-directions.pdf).
-	- Begin generating responses to [last year's prompts](https://drive.google.com/file/d/1YCKrDj-Ud4qD4EEZFk9MPuER5cS9_im0/view?usp=share_link).
+	- Begin generating responses to [last year's prompts](https://russellgordon.ca/lcs/2023-24/ics4u/AP_Create_Task_2022-23_-_Submission_Requirements.pdf#page=3).
 ###### Things to do before our next class
-- [ ] Do your best to author rough written responses to [the prompts for last year's AP CSP Create Task](https://drive.google.com/file/d/1YCKrDj-Ud4qD4EEZFk9MPuER5cS9_im0/view?usp=share_link) based on [the exemplar built today](https://github.com/russellgordon/Spelling/commits/main).
+- [ ] Do your best to author rough written responses to [the prompts for last year's AP CSP Create Task](https://russellgordon.ca/lcs/2023-24/ics4u/AP_Create_Task_2022-23_-_Submission_Requirements.pdf#page=3) based on [the exemplar built today](https://github.com/russellgordon/Spelling/commits/main).
 - [ ] We will then discuss in our class tomorrow morning.
