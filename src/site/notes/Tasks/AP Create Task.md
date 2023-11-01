@@ -60,7 +60,7 @@ Multiplication Maestro is another MVP (minimum viable product) for the AP Create
         
     3. Author your written responses to the [probable exam questions](https://russellgordon.ca/lcs/2023-24/ics4u/AP_Create_Task_2022-23_-_Submission_Requirements.pdf#page=3).
 	    - Be sure that code screenshots are legible – code cannot be so tiny that it becomes nearly impossible to read without a magnifying glass.
-	    - Although you are not submitting your responses now, you can keep these to refer to prior to the exam in May.
+	    - Although you are not submitting your written responses now, you can keep these to refer to prior to the exam in May.
 	    - ==It is recommended that you take screenshots for your written responses from the PDF you created using BBEdit, so that line numbers match up with the PDF file you are providing with your full program code.==
 		    - If you instead take code screenshots from Xcode directly, line numbers will not match up with your full program code PDF, which could be confusing for the College Board evaluator who reviews your submission.
 	      
@@ -68,6 +68,6 @@ Multiplication Maestro is another MVP (minimum viable product) for the AP Create
 
 ## Final Notes
 
-- All class periods after today leading up and including the firm deadline of ==Tuesday November 14== will be working periods for you to complete this task.
-- If you finish all or part of your AP Create Task in advance of our next module, you may use our class time in any way that you see fit, but you must be present in class, and of course, respectful of your peers' need to focus on completing their own work.
+- All class periods after today leading up and including the firm deadline of ==Tuesday November 14, 2023== will be working periods for you to complete this task.
+	- If you finish all or part of your AP Create Task in advance of our next module, you may use our class time in any way that you see fit, but you must be present in class, and of course, respectful of your peers' need to focus on completing their own work.
 - Each day, at the end of class time, make a [brief post on Notion](https://notion.so) to share an update on your progress and to ask clarifying questions.
