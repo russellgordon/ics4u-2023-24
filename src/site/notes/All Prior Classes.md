@@ -30,6 +30,7 @@
 1. Activity: [[Tasks/AP Create Task\|AP Create Task]]
 	- Begin working on your task.
 	- Mr. Gordon is available to discuss ideas.
+		- Possibly helpful: a [curated list of remote endpoints](https://teaching.russellgordon.ca/json/useful-json-endpoints/) that offer useful data in JSON format.
 ###### Things to do before our next class
 - [ ] Share progress on your AP Create Task in a brief post on Notion.
 	- ==This is a firm requirement== – please do not forget to do this.
