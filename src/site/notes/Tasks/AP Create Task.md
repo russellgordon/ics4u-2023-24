@@ -30,7 +30,7 @@ Multiplication Maestro is another MVP (minimum viable product) for the AP Create
 
 1. Read this one-page summary of the [2024 AP Create Task general requirements](https://apcentral.collegeboard.org/media/pdf/ap-csp-student-task-directions.pdf#page=3).
 2. Review the [detailed 2024 AP Create Task requirements](https://apcentral.collegeboard.org/media/pdf/ap-csp-student-task-directions.pdf#page=4).
-3. Understand the [2023 AP Create Task rubric](https://www.russellgordon.ca/ap-create-task-scoring-guidelines.pdf).
+3. Understand the [2023 AP Create Task rubric](https://www.russellgordon.ca/lcs/2023-24/ics4u/ap-create-task-scoring-guidelines.pdf).
     - These are the guidelines that the College Board evaluator will likely use to score the responses that you author in May on the exam.
     - To better understand requirements, watch [this video that compares the exemplar to the rubric](https://www.yout-ube.com/watch?v=xNn6gU_gvRo).
 
