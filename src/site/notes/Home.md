@@ -4,20 +4,15 @@
 
 ## Most Recent Class
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-1/day-10/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-1/day-11/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-### Thread 1, Day 10 - Wednesday, November 1, 2023
+### Thread 1, Day 11 - Thursday, November 2, 2023
 #### Agenda
 1. Activity: [[Tasks/AP Create Task\|AP Create Task]]
-	- Begin working on your task.
-	- Mr. Gordon is available to discuss ideas.
-		- Possibly helpful:
-			- a [curated list of remote endpoints](https://teaching.russellgordon.ca/json/useful-json-endpoints/) that offer useful data in JSON format
-			- [free image assets](https://www.gameartguppy.com)
-				- This is where Mr. Gordon got the [food images](https://www.gameartguppy.com/shop/food-icons/) used for the Spelling app we built in recent classes.
+	- Continue working on your task.
 ###### Things to do before our next class
 - [ ] Share progress on your AP Create Task in a brief post on Notion.
 	- ==This is a firm requirement== – please do not forget to do this.
