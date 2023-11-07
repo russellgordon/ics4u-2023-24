@@ -4,17 +4,16 @@
 
 ## Most Recent Class
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-1/day-12/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-1/day-13/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-### Thread 1, Day 12 - Monday, November 6, 2023
+### Thread 1, Day 13 - Tuesday, November 7, 2023
 #### Agenda
-1. Discussion: Module 1 Test Date
-	- OUAC mark submission deadline means a modest change is needed.
-2. Activity: [[Tasks/AP Create Task\|AP Create Task]]
-	- Continue working on your task.
+1. Activity: Module 1 Practice Test
+	- Here is the [1-minute video](https://drive.google.com/file/d/1qNF7N5YHM7U02yX5BIIo1KxI9hjIfCNX/view?usp=share_link) to review.
+	- Answer the questions shown on paper.
 ###### Things to do before our next class
 - [ ] Share progress on your AP Create Task in a brief post on Notion.
 	- ==This is a firm requirement== – please do not forget to do this.
