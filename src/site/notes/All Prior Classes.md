@@ -39,7 +39,9 @@
 		  > You can now check your answers [against these solutions](https://russellgordon.ca/lcs/2023-24/ics4u/written_responses_color_selector.pdf).
 ###### Things to do before our next class
 - [ ] Share progress on your AP Create Task in a brief post on Notion.
-	- ==This is a firm requirement== – please do not forget to do this.
+- [ ] ==Prepare for the Unit 1 Test on Tuesday morning==
+	- Be sure to carefully review the [exemplar responses](https://russellgordon.ca/lcs/2023-24/ics4u/written_responses_color_selector.pdf) and ask questions on Notion if you are looking for clarification on anything at all.
+		- Please use `@Russell Gordon` when asking questions so that you will get a more prompt reply from Mr. Gordon.
 
 </div></div>
 
