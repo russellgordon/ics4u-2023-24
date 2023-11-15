@@ -4,25 +4,19 @@
 
 ## Most Recent Class
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-1/day-13/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-1/day-14/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-### Thread 1, Day 13 - Tuesday, November 7, 2023
+### Thread 1, Day 14 - Tuesday, November 14, 2023
 #### Agenda
-1. Activity: Module 1 Practice Test
-	- Color Selector Exemplar
-		- Here is the [1-minute video](https://drive.google.com/file/d/1qNF7N5YHM7U02yX5BIIo1KxI9hjIfCNX/view?usp=share_link) to review.
-		- Here is the [full program code](https://russellgordon.ca/lcs/2023-24/ics4u/full-program-code_color_selector.pdf).
-		- Please answer the [questions provided to you on paper](https://russellgordon.ca/lcs/2023-24/ics4u/written_responses_color_selector_blank.pdf).
-		  > [!NOTE]
-		  > You can now check your answers [against these solutions](https://russellgordon.ca/lcs/2023-24/ics4u/written_responses_color_selector.pdf).
+1. Activity: Module 1 Test
 ###### Things to do before our next class
-- [ ] Share progress on your AP Create Task in a brief post on Notion.
-- [ ] ==Prepare for the Unit 1 Test on Tuesday morning==
-	- Be sure to carefully review the [exemplar responses](https://russellgordon.ca/lcs/2023-24/ics4u/written_responses_color_selector.pdf) and ask questions on Notion if you are looking for clarification on anything at all.
-		- Please use `@Russell Gordon` when asking questions so that you will get a more prompt reply from Mr. Gordon.
+- [ ] Do your best to finish your AP Create Task.
+	- We will look at how to hand in the task to the College Board in our next class.
+	- If necessary, you can hand in your Create Task to the College Board at a date later than this Thursday's class.
+
 
 </div></div>
 
