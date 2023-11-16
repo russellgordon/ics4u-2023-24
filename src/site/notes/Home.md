@@ -4,18 +4,23 @@
 
 ## Most Recent Class
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-1/day-14/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-1/day-15/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-### Thread 1, Day 14 - Tuesday, November 14, 2023
+### Thread 1, Day 15 - Thursday, November 16, 2023
 #### Agenda
-1. Activity: Module 1 Test
+1. Activity: College Board Digital Portfolio
+	- A look at how to submit your Create Task.
+2. Discussion: Module 1 Test Solutions
+	- Here is the [1-minute video](https://www.russellgordon.ca/lcs/2023-24/ics4u/JokeFinder-video.mp4) to review.
+	- Here is the [full program code](https://www.russellgordon.ca/lcs/2023-24/ics4u/full-program-code-joke-finder.pdf).
+	- You can now check your answers [against these solutions](https://russellgordon.ca/lcs/2023-24/ics4u/written_responses_color_selector.pdf).
+	- Here is the [rubric used to score your responses](https://www.russellgordon.ca/lcs/2023-24/ics4u/ap-create-task-scoring-guidelines.pdf).
 ###### Things to do before our next class
-- [ ] Do your best to finish your AP Create Task.
-	- We will look at how to hand in the task to the College Board in our next class.
-	- If necessary, you can hand in your Create Task to the College Board at a date later than this Thursday's class.
+- [ ] Polish your portfolio, if you wish, up to this Saturday at 10 PM.
+	- Please use `@Russell Gordon` to notify me if your portfolio is modified; I have just reviewed portfolios (as of this past Wednesday).
 
 
 </div></div>
