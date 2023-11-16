@@ -11,7 +11,7 @@
 
 ### Thread 1, Day 15 - Thursday, November 16, 2023
 #### Agenda
-1. Activity: College Board Digital Portfolio
+1. Activity: [College Board Digital Portfolio](http://digitalportfolio.collegeboard.org/)
 	- A look at how to submit your Create Task.
 2. Discussion: Module 1 Test Solutions
 	- Here is the [1-minute video](https://www.russellgordon.ca/lcs/2023-24/ics4u/JokeFinder-video.mp4) to review.
