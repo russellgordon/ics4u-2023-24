@@ -32,9 +32,11 @@
 
 ### Thread 1, Day 15 - Thursday, November 16, 2023
 #### Agenda
-1. Activity: [College Board Digital Portfolio](http://digitalportfolio.collegeboard.org/)
+1. Activity: [College Board AP Classroom](https://apclassroom.collegeboard.org)
+	- Learn how to join our section on the AP Classroom website.
+2. Activity: [College Board Digital Portfolio](https://digitalportfolio.collegeboard.org/)
 	- A look at how to submit your Create Task.
-2. Discussion: Module 1 Test Solutions
+3. Discussion: Module 1 Test Solutions
 	- Here is the [1-minute video](https://www.russellgordon.ca/lcs/2023-24/ics4u/JokeFinder-video.mp4) to review.
 	- Here is the [full program code](https://www.russellgordon.ca/lcs/2023-24/ics4u/full-program-code-joke-finder.pdf).
 	- You can now check your answers [against these solutions](https://russellgordon.ca/lcs/2023-24/ics4u/written_responses_color_selector.pdf).
