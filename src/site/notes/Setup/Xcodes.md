@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setup/xcodes/"}
+{"dg-publish":true,"permalink":"/setup/xcodes/","dgShowToc":true}
 ---
 
 # Xcodes
