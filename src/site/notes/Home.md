@@ -21,11 +21,14 @@
 		- Often during this process, you will realize the source of the problem you are having.
 	- When a friend is not nearby, [use your duck](https://rubberduckdebugging.com)! 🦆  
 3. Activity: [College Board Digital Portfolio](https://digitalportfolio.collegeboard.org/)
-	- If you have not already, submit your Create Task.
+	- If you have not already, submit your [[Tasks/AP Create Task\|AP Create Task]].
+	  > [!TIP]
+	  > It is recommended that you author a draft of your written responses for the [[Tasks/AP Create Task\|AP Create Task]] before submitting your work to the College Board.
 4. Recap: [[Activities/Optionals\|Optionals]]
 	- Understand how the Swift programming language handles cases where a value may not exist for a variable or constant.
 ###### Things to do before our next class
 - [ ] Complete assigned tasks as described above, asking questions of Mr. Gordon as needed.
+
 
 
 </div></div>
