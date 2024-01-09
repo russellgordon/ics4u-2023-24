@@ -72,7 +72,7 @@
 3. Discussion: Module 1 Test Solutions
 	- Here is the [1-minute video](https://www.russellgordon.ca/lcs/2023-24/ics4u/JokeFinder-video.mp4) to review.
 	- Here is the [full program code](https://www.russellgordon.ca/lcs/2023-24/ics4u/full-program-code-joke-finder.pdf).
-	- You can now check your answers [against these solutions](https://russellgordon.ca/lcs/2023-24/ics4u/written_responses_color_selector.pdf).
+	- You can now check your answers [against these solutions](https://russellgordon.ca/lcs/2023-24/ics4u/written-responses-joke-finder.pdf).
 	- Here is the [rubric used to score your responses](https://www.russellgordon.ca/lcs/2023-24/ics4u/ap-create-task-scoring-guidelines.pdf).
 ###### Things to do before our next class
 - [ ] Polish your portfolio, if you wish, up to this Saturday at 10 PM.
