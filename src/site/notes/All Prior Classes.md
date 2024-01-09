@@ -49,7 +49,7 @@
 4. Recap: [[Activities/Optionals\|Optionals]]
 	- Understand how the Swift programming language handles cases where a value may not exist for a variable or constant.
 ###### Things to do before our next class
-- [ ] Complete assigned tasks as described above, asking of Mr. Gordon as needed.
+- [ ] Complete assigned tasks as described above, asking questions of Mr. Gordon as needed.
 
 
 </div></div>
