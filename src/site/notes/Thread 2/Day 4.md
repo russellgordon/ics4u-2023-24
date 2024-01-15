@@ -9,18 +9,16 @@
 	- If you have not already, submit your [[Tasks/AP Create Task\|AP Create Task]].
 	  > [!TIP]
 	  > A link to a draft of your written responses for the [[Tasks/AP Create Task\|AP Create Task]] must be posted on Notion.
-2. Tutorial: [Creating Bar Charts and Line Charts](https://russellgordon.ca/lcs/2023-24/ics4u/charts/Creating-Bar-Charts-and-Line-Charts-with-the-Charts-Framework.webarchive)
+2. Tutorial: [Creating Bar Charts and Line Charts](https://www.russellgordon.ca/lcs/2023-24/ics4u/charts/creating-bar-charts-and-line-charts-with-the-charts-framework)
    - Learn how to create bar charts and line charts using the `Charts` framework and `SwiftUI`.
-   - You can follow this tutorial by creating *either* an iOS or macOS application – both work equally well – macOS projects compile and run faster.
-> [!IMPORTANT]
-> 
-> You must use Safari to follow and view the link above.
-> 
-> The **.webarchive** format works only in the Safari browser.
+     > [!TIP]
+     > 
+     > You can follow this tutorial by creating *either* an iOS or macOS application in Xcode – both work equally well – however, on some computers, macOS projects will compile and run faster.
 3. Exercise: Create a Bar or Line Chart
 	- Using what you learned in the tutorial above, select either a bar chart or a line chart.
 	- Create data structures that you can model using the chart type you selected.
 	- Then make a chart to visualize the data.
+	- For deeper learning, if you have time, make both types of charts using your own data.
 	  > [!EXAMPLE] 
 	  > 
 	  > Here is an example using "student" grades data:
