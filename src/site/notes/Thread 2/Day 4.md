@@ -25,7 +25,7 @@
 	> 
 	> Here is an example using "student" grades data:
 	> 
-	> ![Screenshot 2024-01-15 at 4.20.16 PM.png](/img/user/Media/Screenshot%202024-01-15%20at%204.20.16%E2%80%AFPM.png)
+	> ![Screenshot 2024-01-15 at 4.20.16 PM.png|500](/img/user/Media/Screenshot%202024-01-15%20at%204.20.16%E2%80%AFPM.png)
 ###### Things to do before our next class
 - [ ] If you have not done so yet, please submit your AP Create Task to the College Board and post a link to your written responses in your portfolio on Notion.
 - [ ] Then, if you have time remaining in class, start on items 2 and 3 in the agenda above.
