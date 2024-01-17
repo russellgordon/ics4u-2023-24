@@ -113,10 +113,10 @@ Add the following to your notes, completing each sentence.
 2. A class is a &#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f; type.
    <br/>
 3. In the code example above, when `Location` is defined as a structure, `home` is a &#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f; of `school` and occupies a &#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f; region of memory in the computer.<br/>
-   So, when `home` changes, `school`  &#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&# &#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#.
+   So, when `home` changes, `school`  &#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f; &#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;.
    <br/>
 4. In the code example above, when `Location` is defined as a class, `home` is simply a &#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f; to `school` and occupies the &#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f; region of memory in the computer.<br/>
-    So, when `home` changes, `school`  &#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&# &#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#.
+    So, when `home` changes, `school`  &#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;.
    <br/>
 
 
