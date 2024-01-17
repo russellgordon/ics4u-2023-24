@@ -6,8 +6,8 @@
 
 This lesson is really about *value types* and how they differ from *reference types*.
 
-To explore this concept, please create a new [[Tutorials/Creating an Xcode Playground\|Xcode playground]] named `StructuresAndClasses`.
-## Value Types
+To explore this concept, please create a [[Tutorials/Creating an Xcode Playground\|new Xcode playground]] named `StructuresAndClasses`.
+## Value types
 
 What is a value type?
 
@@ -19,21 +19,21 @@ Now, have you ever seen this sweater around the Lakefield campus?
 
 Thinking of that, please type the following into your new playground:
 
-![Screenshot 2024-01-17 at 10.40.40 AM.png|350](/img/user/Media/Screenshot%202024-01-17%20at%2010.40.40%E2%80%AFAM.png)
+![Screenshot 2024-01-17 at 10.40.40 AM.png|325](/img/user/Media/Screenshot%202024-01-17%20at%2010.40.40%E2%80%AFAM.png)
 
 Run the playground using the **Command-Shift-Return** keyboard shortcut and review the results at right in the sidebar:
 
-![Screenshot 2024-01-17 at 10.41.41 AM.png](/img/user/Media/Screenshot%202024-01-17%20at%2010.41.41%E2%80%AFAM.png)
+![Screenshot 2024-01-17 at 10.41.41 AM.png|650](/img/user/Media/Screenshot%202024-01-17%20at%2010.41.41%E2%80%AFAM.png)
 
 Are the values what you thought they would be?
 
 Now add the following additional lines of code:
 
-![Screenshot 2024-01-17 at 9.50.55 AM.png|350](/img/user/Media/Screenshot%202024-01-17%20at%209.50.55%E2%80%AFAM.png)
+![Screenshot 2024-01-17 at 9.50.55 AM.png|325](/img/user/Media/Screenshot%202024-01-17%20at%209.50.55%E2%80%AFAM.png)
 
 Then re-run the entire playground and inspect the results in the sidebar at right again:
 
-![Screenshot 2024-01-17 at 10.43.52 AM.png](/img/user/Media/Screenshot%202024-01-17%20at%2010.43.52%E2%80%AFAM.png)
+![Screenshot 2024-01-17 at 10.43.52 AM.png|650](/img/user/Media/Screenshot%202024-01-17%20at%2010.43.52%E2%80%AFAM.png)
 
 Are the values what you thought they would be?
 
@@ -48,7 +48,7 @@ Based on the results you have seen when running the playground – what can you 
 
 Now, on line 3, change the `struct` keyword so that it says `class` instead:
 
-![Pasted image 20240117105009.png](/img/user/Media/Pasted%20image%2020240117105009.png)
+![Pasted image 20240117105009.png|650](/img/user/Media/Pasted%20image%2020240117105009.png)
 
 We are now definining a *class* named `Location` rather than a *structure*. 
 
@@ -58,7 +58,7 @@ What does that mean? Let's find out.
 
 First, shortly after you made the change on line 3, Xcode presented an error message:
 
-![Pasted image 20240117100029.png](/img/user/Media/Pasted%20image%2020240117100029.png)
+![Pasted image 20240117100029.png|650](/img/user/Media/Pasted%20image%2020240117100029.png)
 
 It is a requirement of the Swift compiler that a class be defined with a special function known as an *initializer*.
 
@@ -66,13 +66,13 @@ An initializer is used when an instance of a class is created, or initialized. T
 
 Fortunately, we do not need to write the initializer for a class manually – Xcode will do it for us. Make edits to your code as follows:
 
-![Adding an Initializer.gif](/img/user/Media/Adding%20an%20Initializer.gif)
+![Adding an Initializer.gif|650](/img/user/Media/Adding%20an%20Initializer.gif)
 
 ### How initializers work
 
 When an instance of a class is created, the arguments for a given parameter are passed to the initializer:
 
-![Screenshot 2024-01-17 at 10.51.57 AM.png](/img/user/Media/Screenshot%202024-01-17%20at%2010.51.57%E2%80%AFAM.png)
+![Screenshot 2024-01-17 at 10.51.57 AM.png|650](/img/user/Media/Screenshot%202024-01-17%20at%2010.51.57%E2%80%AFAM.png)
 
 The keyword `self` refers to the instance of the class being initialized.
 
@@ -94,13 +94,13 @@ Depending on your goals as a programmer, you may sometimes add logic to an initi
 
 With the conversation about initializers out of the way, please run the playground with `Location` defined as a class:
 
-![Screenshot 2024-01-17 at 11.05.34 AM.png](/img/user/Media/Screenshot%202024-01-17%20at%2011.05.34%E2%80%AFAM.png)
+![Screenshot 2024-01-17 at 11.05.34 AM.png|650](/img/user/Media/Screenshot%202024-01-17%20at%2011.05.34%E2%80%AFAM.png)
 
 Again, how are those results different as compared to when `Location` is defined as a structure?
 
 Try changing `Location` from a structure to a class and back again, and really take a close look at the results:
 
-![Struct to Class and Back Again.gif](/img/user/Media/Struct%20to%20Class%20and%20Back%20Again.gif)
+![Struct to Class and Back Again.gif|650](/img/user/Media/Struct%20to%20Class%20and%20Back%20Again.gif)
 
 ## Summary
 
