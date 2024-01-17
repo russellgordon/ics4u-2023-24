@@ -27,7 +27,7 @@
 	  > 
 	  > Here is a silly example, but it is good practice with making charts:
 	  > 
-	  > ![Screenshot 2024-01-15 at 7.19.55 PM.png](/img/user/Media/Screenshot%202024-01-15%20at%207.19.55%E2%80%AFPM.png)
+	  > ![Screenshot 2024-01-17 at 9.10.39 AM.png](/img/user/Media/Screenshot%202024-01-17%20at%209.10.39%E2%80%AFAM.png)
 ###### Things to do before our next class
 - [ ] If you have not done so yet, please submit your AP Create Task to the College Board and post a link to your written responses in your portfolio on Notion.
 - [ ] Then, if you have time remaining in class, start on items 2 and 3 in the agenda above.
