@@ -14,7 +14,7 @@
 
 1. Activity: [College Board Digital Portfolio](https://digitalportfolio.collegeboard.org/)
 	- If you have not already, submit your [[Tasks/AP Create Task\|AP Create Task]].
-	  > [!TIP]
+	  > [!IMPORTANT]
 	  > A link to a draft of your written responses for the [[Tasks/AP Create Task\|AP Create Task]] must be posted on Notion.
 2. Tutorial: [Creating Pie Charts and Donut Charts](https://russellgordon.ca/lcs/2023-24/ics4u/charts/Building-Pie-Charts-and-Donut-Charts.html)
    - Learn how to create bar charts and line charts using the `Charts` framework and `SwiftUI`.
