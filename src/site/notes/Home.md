@@ -30,7 +30,7 @@
 	  > 
 	  > Here is an example using made-up data regarding the proportion of students in each house at Lakefield College School:
 	  > 
-	  > ![Screenshot 2024-01-15 at 6.40.57 PM.png|400](/img/user/Media/Screenshot%202024-01-15%20at%206.40.57%E2%80%AFPM.png)
+	  > ![Screenshot 2024-01-15 at 6.40.57 PM.png|600](/img/user/Media/Screenshot%202024-01-15%20at%206.40.57%E2%80%AFPM.png)
 	  > 
 	  > Here is a silly example, but it is good practice with making charts:
 	  > 
