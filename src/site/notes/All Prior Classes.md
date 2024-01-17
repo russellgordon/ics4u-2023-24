@@ -8,6 +8,7 @@
 
 ### Thread 2
 
+- [[All Prior Classes#Thread 2, Day 5 - Wednesday, January 17, 2024\|Day 5 - Wednesday, January 17, 2024]]
 - [[All Prior Classes#Thread 2, Day 4 - Tuesday, January 16, 2024\|Day 4 - Tuesday, January 16, 2024]]
 - [[All Prior Classes#Thread 2, Day 3 - Friday, January 12, 2024\|Day 3 - Friday, January 12, 2024]]
 - [[All Prior Classes#Thread 2, Day 2 - Thursday, January 11, 2024\|Day 2 - Thursday, January 11, 2024]]
