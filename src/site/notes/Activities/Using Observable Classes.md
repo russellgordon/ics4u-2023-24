@@ -12,11 +12,22 @@ We will extend an app first written in last year's course.
 
 Building the initial app will move quickly so that we can focus on learning how to use the `Observation` framework in this lesson.
 
+> [!TIP]
+> You will be copy-pasting code into Xcode frequently.
+> 
+> Remember that if the code does not paste and get indented correctly, you can highlight the code in question, then use `Control-I` to re-indent it.
+> 
+> Alternatively, you can highlight all the code in your file using `Command-A`, then re-indent everything using `Control-I`.
+> 
+> If you are running into syntax errors, remember that `Command-Z` will undo your edits (as many times as needed).
+> 
+> **Be sure to commit and push your work when prompted to do so.** 😇
+
 When complete, you will have an app that looks like this:
 
 ![Screenshot 2024-01-18 at 7.42.33 AM.png|400](/img/user/Media/Screenshot%202024-01-18%20at%207.42.33%E2%80%AFAM.png)
 
-In tomorow's lesson, you will learn how to use the new `SwiftData` framework to persist the data to a database – much more easily than with the `Blackbird` framework we used last year.
+In tomorrow's lesson, you will learn how to use the new `SwiftData` framework to persist the data to a database – much more easily than with the `Blackbird` framework we used last year.
 
 Let's get started.
 
