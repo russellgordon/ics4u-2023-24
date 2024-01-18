@@ -409,7 +409,7 @@ We must also use the `Observation` framework.
 
 SwiftUI will take care of the remaining details for us – automatically updating the user interface when properties of an instance of `TodoListItem` are changed.
 
-So, next, make these edits on lines 8, 10, and 11, to the `TodoListItem` model file:
+So, next, make these edits on lines 8, 11, and 12, to the `TodoListItem` model file:
 
 ![Screenshot 2024-01-18 at 10.57.17 AM.png](/img/user/Media/Screenshot%202024-01-18%20at%2010.57.17%E2%80%AFAM.png)
 
