@@ -347,7 +347,15 @@ You should now be able to add new items to your list.
 
 > [!IMPORTANT]
 >
-> If the keyboard appears to be frozen, you may need to run the app in the full Simulator to test the addition of new entries:
+> If the keyboard appears to be frozen, quit Xcode using Command-Q, then re-open your project. 
+>  
+>  Another option is to  run the app in the full Simulator to test the addition of new entries:
 > 
-> 
+> ![Screenshot 2024-01-18 at 10.35.04 AM.png|325](/img/user/Media/Screenshot%202024-01-18%20at%2010.35.04%E2%80%AFAM.png)
+
+Commit and push your work with this message:
+
+```
+Made it possible to add new items to the list.
+```
 
