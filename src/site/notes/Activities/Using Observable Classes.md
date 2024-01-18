@@ -427,6 +427,12 @@ Then, back on `TodoListView`, add the following code as a view modifier on the `
 
 You should now find that you can mark to-do items as completed or incomplete.
 
+Be sure to commit and push your work with the message:
+
+```
+Can now mark items as completed or not, thanks to the Observation framework.
+```
+
 ## Exercises
 
 That's about enough for today – you have seen the start of how the `Observation` framework is useful.
