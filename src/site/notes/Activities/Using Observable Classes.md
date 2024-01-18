@@ -423,7 +423,7 @@ Then, back on `TodoListView`, add the following code as a view modifier on the `
 
 ... like this:
 
-![Screenshot 2024-01-18 at 10.59.34 AM.png](/img/user/Media/Screenshot%202024-01-18%20at%2010.59.34%E2%80%AFAM.png)
+![Screenshot 2024-01-18 at 11.24.27 AM.png](/img/user/Media/Screenshot%202024-01-18%20at%2011.24.27%E2%80%AFAM.png)
 
 You should now find that you can mark to-do items as completed or incomplete.
 
