@@ -427,3 +427,35 @@ Then, back on `TodoListView`, add the following code as a view modifier on the `
 
 You should now find that you can mark to-do items as completed or incomplete.
 
+## Exercises
+
+That's about enough for today – you have seen the start of how the `Observation` framework makes it possible to track changes to individual properties of instances of a class that are stored in a list.
+
+In tomorrow's class, you will learn how to share data between screens, and persist that data long-term.
+
+For now, try the following exercises.
+
+### Make it possible to delete items from the list
+
+Try adapting the [instructions given here](https://www.hackingwithswift.com/books/ios-swiftui/deleting-items-using-ondelete) and see if you can make it possible to delete items from your list of to-do items. 
+
+>[!TIP]
+>Note that the list of to-do items needs to be iterated over using a `ForEach` structure for the `.onDelete` view modifier to work.
+
+### Make it possible to search through items
+
+Adapt [the instructions given here](https://www.hackingwithswift.com/quick-start/swiftui/how-to-add-a-search-bar-to-filter-your-data) to add a search field to the list.
+
+A computed property that returns a filtered array of items might look like this:
+
+```swift
+var filteredItems: [TodoItem] {
+	if searchText.isEmpty {
+		return items
+	} else {
+		return items.filter { item in
+			item.details.lowercased().contains(searchText.lowercased())
+		}
+	}
+}
+```
