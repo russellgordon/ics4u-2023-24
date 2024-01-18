@@ -347,15 +347,83 @@ You should now be able to add new items to your list.
 
 > [!IMPORTANT]
 >
-> If the keyboard appears to be frozen, quit Xcode using Command-Q, then re-open your project. 
+> If the keyboard appears to be frozen, quit Xcode using **Command-Q**, then re-open your project. 
 >  
 >  Another option is to  run the app in the full Simulator to test the addition of new entries:
 > 
 > ![Screenshot 2024-01-18 at 10.35.04 AM.png|325](/img/user/Media/Screenshot%202024-01-18%20at%2010.35.04%E2%80%AFAM.png)
+> ![Screenshot 2024-01-18 at 10.36.11 AM.png|325](/img/user/Media/Screenshot%202024-01-18%20at%2010.36.11%E2%80%AFAM.png)
 
 Commit and push your work with this message:
 
 ```
 Made it possible to add new items to the list.
 ```
+
+## Begin using the Observation framework
+
+If you've added a few items, you probably tried out marking them as complete.
+
+You will note that this does not work.
+
+First, we need to add code to make this happen.
+
+Below the `addItem` function, but before the closing `}` of the `TodoListView` structure, add this code:
+
+```swift
+func toggle(item: TodoItem) {
+	if item.isCompleted {
+		item.completedOn = nil
+		item.isCompleted = false
+	} else {
+		item.completedOn = Date()
+		item.isCompleted = true
+	}
+	
+}
+```
+
+... like this:
+
+![Screenshot 2024-01-18 at 10.45.56 AM.png](/img/user/Media/Screenshot%202024-01-18%20at%2010.45.56%E2%80%AFAM.png)
+
+You will immediately see error messages.
+
+That is because our model for each instance of a to-do item is a structure:
+
+![Screenshot 2024-01-18 at 10.41.18 AM.png](/img/user/Media/Screenshot%202024-01-18%20at%2010.41.18%E2%80%AFAM.png)
+
+SwiftUI handles instances of structures as *immutable* by default, for performance reasons.
+
+Because of this, individual *properties* of a structure instance within the `items` array cannot be modified. So we cannot change the `isCompleted` property value from `false` to `true`, for example.
+
+SwiftUI *can* see changes in the `items` array itself that holds the list of to-do items:
+
+![Screenshot 2024-01-18 at 10.41.55 AM.png](/img/user/Media/Screenshot%202024-01-18%20at%2010.41.55%E2%80%AFAM.png)
+
+... and that is why the interface updates when we add a new item.
+
+To fix this situation, we need to make  `TodoListItem` into a *class*, rather than having it be a structure.
+
+We must also use the `Observation` framework.
+
+SwiftUI will take care of the remaining details for us – automatically updating the user interface when properties of an instance of `TodoListItem` are changed.
+
+So, next, make these edits on lines 8, 10, and 11, to the `TodoListItem` model file:
+
+![Screenshot 2024-01-18 at 10.57.17 AM.png](/img/user/Media/Screenshot%202024-01-18%20at%2010.57.17%E2%80%AFAM.png)
+
+Then, back on `TodoListView`, add the following code as a view modifier on the `Image` structure that shows the circle for a to-do item:
+
+```swift
+.onTapGesture {
+	toggle(item: currentItem)
+}
+```
+
+... like this:
+
+![Screenshot 2024-01-18 at 10.59.34 AM.png](/img/user/Media/Screenshot%202024-01-18%20at%2010.59.34%E2%80%AFAM.png)
+
+You should now find that you can mark to-do items as completed or incomplete.
 
