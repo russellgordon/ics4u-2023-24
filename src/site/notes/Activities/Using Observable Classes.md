@@ -429,11 +429,15 @@ You should now find that you can mark to-do items as completed or incomplete.
 
 ## Exercises
 
-That's about enough for today – you have seen the start of how the `Observation` framework makes it possible to track changes to individual properties of instances of a class that are stored in a list.
+That's about enough for today – you have seen the start of how the `Observation` framework is useful.
 
-In tomorrow's class, you will learn how to share data between screens, and persist that data long-term.
+So far, it has made it possible to track changes to individual properties of instances of a class that are stored in a list.
 
-For now, try the following exercises.
+In tomorrow's class, you will learn how to use the `Observation` framework to share data between screens.
+
+Then, you will learn how to persist that data long-term, using the new `SwiftData` framework.
+
+For now, please try the following exercises.
 
 ### Make it possible to delete items from the list
 
