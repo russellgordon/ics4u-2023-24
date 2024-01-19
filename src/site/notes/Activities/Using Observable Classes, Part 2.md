@@ -393,7 +393,7 @@ Finally, you will see that three error messages remain – and they all relate t
 
 ![Screenshot 2024-01-18 at 8.12.59 PM.png](/img/user/Media/Screenshot%202024-01-18%20at%208.12.59%E2%80%AFPM.png)
 
-So, first, remove the `.onAppear` closure that was creating example data for us earlier – we will use a different approach to get example data momentarily:
+So, first, remove the `.onAppear` closure that was creating example data for us earlier – [[Activities/Using Observable Classes, Part 2#Mock data for previews\|we will use a different approach]] to get example data momentarily:
 
 ![Screenshot 2024-01-18 at 8.14.01 PM.png](/img/user/Media/Screenshot%202024-01-18%20at%208.14.01%E2%80%AFPM.png)
 
