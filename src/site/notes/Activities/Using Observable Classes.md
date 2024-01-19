@@ -480,3 +480,6 @@ var filteredItems: [TodoItem] {
 	}
 }
 ```
+
+> [!TIP]
+> Now that you have tried the exercises, move on to the [[Activities/Using Observable Classes, Part 2\|second and final part of this tutorial]].
