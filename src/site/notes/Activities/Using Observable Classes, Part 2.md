@@ -506,10 +506,10 @@ There's a lot going on there, so let's break that down.
 > [!DISCUSSION]
 > 
 > 1. We are adding functionality to our model, `TodoItem`, by way of an extension.
-> 2. We are creating a computed property named `preview`. It is marked with the `static` property so that we do not have to create an instance of `TodoItem` to use this property (more on that soon). The computed property returns an instance of the datatype `ModelContainer` which is used to store information.
+> 2. We are creating a computed property named `preview`. It is marked with the `static` keyword so that we do not have to create an instance of `TodoItem` to use this property (more on that soon). The computed property returns an instance of the datatype `ModelContainer` which is used to store information.
 > 3. The container is "in-memory" only which means data won't actually be persisted – which is perfect for use with SwiftUI Previews.
 > 4. We use the context that SwiftData automatically makes available from the container. That context exists on the *main thread* of the app – this is implied by it's name – `mainContext`. We use this context to insert three instances of mock data using the `TodoItem` model.
-> 5. Computers run many threads at a time to do work on our behalf. Applications written in SwiftUI are automatically made multi-threaded to take advantage of modern CPU architectures. We cannot run this computed property on a background thread if it is using a context on the main thread to insert data. By using the `@MainActor` keyword we are telling Swift to run this conputed property on the main thread of our app.
+> 5. Computers run many threads at a time to do work on our behalf. Applications written in SwiftUI are automatically made multi-threaded to take advantage of modern CPU architectures. We cannot run this computed property on a background thread if it is using a context on the main thread to insert data. By using the `@MainActor` keyword we are telling Swift to run this computed property on the main thread of our app.
 > 6. Finally, the in-memory container with our mock data is returned from the static computed property.
 
 To use this new code, switch to the `TodoListView` file, and find the preview:
@@ -532,7 +532,7 @@ This inserts the in-memory container with our mock data into the environment use
 
 You can interact with the view as you'd like for testing purposes or for refining the look and feel of a user interface.
 
-However, when you return to the preview again later, the same three pieces of mock data will be present.
+However, when you return to the preview again later, the same three pieces of mock data will be present. Remember, the preview container was in-memory only, so data is *not* persisted.
 
 Commit and push your work with this message:
 
@@ -782,13 +782,15 @@ Remember to insert a container into the environment so that this preview has som
 
 ![Screenshot 2024-01-18 at 9.34.23 PM.png](/img/user/Media/Screenshot%202024-01-18%20at%209.34.23%E2%80%AFPM.png)
 
-Now we see a lovely little donut chart showing us the propertion of completed to incomplete tasks. You can interact with the tab view and switch to the input screen to add more to-do items. Note that when you switch back to the stats view, the graph has been updated!
+Now we see a lovely little donut chart showing us the proportion of completed to incomplete tasks. You can interact with the tab view and switch to the input screen to add more to-do items. Note that when you switch back to the stats view, the graph has been updated!
 
 #### Understanding the code
 
-This tutorial assumes you read and have an initial understanding of the Charts tutorials from the past two days of class.
+This tutorial assumes you read and have an initial understanding of the Charts tutorials from the [[Thread 2/Day 5\|past]] [[Thread 2/Day 6\|two]] days of class.
 
-We will focus here only on how we obtained the data we care about – how we found the number of completed items, and how we found the number of incomplete items.
+We will focus here only on how we obtained the data we care about – how we found the number of:
+- completed items
+- incomplete items
 
 First, two stored properties are created that will hold this information:
 
@@ -808,7 +810,7 @@ In order:
 - On line 117 that predicate is passed to a *fetch descriptor* which is a way of telling the context what information we want to get
 - On line 118 the `fetchCount` method is used on the context. This does not actually retrieve all of the instances of `TodoItem` that are completed from the database – it just returns the *count* of how many instances of `TodoItem` exist that are completed.
 
-The same general idea applies for finding the number of incomplete to-do items on lines 121 to 125.
+The same general idea applies for finding the number of incomplete to-do items on lines 120 to 125.
 
 The syntax is absolutely a bit to get used to. How will you memorize this? *You won't.* You'll just refer to examples (like everyone else who has learned this did) and then over time, it will become second nature.
 
@@ -824,7 +826,7 @@ In fact, here is what the underlying database looks like in **DB Browser**:
 
 ![Screenshot 2024-01-18 at 10.13.19 PM.png](/img/user/Media/Screenshot%202024-01-18%20at%2010.13.19%E2%80%AFPM.png)
 
-We can run the query right on the database – adjusting somewhat to compensate for the somewhat odd naming convention used by SwiftData:
+We can run the query right on the database – adjusting somewhat to compensate for the somewhat odd naming convention for tables and columns used by SwiftData:
 
 ![Screenshot 2024-01-18 at 10.13.36 PM.png](/img/user/Media/Screenshot%202024-01-18%20at%2010.13.36%E2%80%AFPM.png)
 
