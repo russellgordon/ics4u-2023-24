@@ -244,7 +244,7 @@ As you know, the view is what we see in an app, and how we interact with data.
 
 At a very literal level, app design is all about identifying a way to uniquely present data to users – and allowing them to interact with that data easily.
 
-If the convenience of using your app to interact with data outweighs the price you attach when you choose to sell software – well, *that* is how you make money as an app developer. 💵
+If the convenience and utility of using your app to interact with data outweighs the price you attach when you choose to sell software – well, *that* is how you make money as an app developer. 💵
 
 #### Putting it all together
 
