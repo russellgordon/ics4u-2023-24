@@ -824,11 +824,15 @@ In fact, here is what the underlying database looks like in **DB Browser**:
 
 ![Screenshot 2024-01-18 at 10.13.19 PM.png](/img/user/Media/Screenshot%202024-01-18%20at%2010.13.19%E2%80%AFPM.png)
 
-We can run the query right on the database – adjusting it somewhat to compensate for the somewhat odd naming convention used by SwiftData:
+We can run the query right on the database – adjusting somewhat to compensate for the somewhat odd naming convention used by SwiftData:
 
 ![Screenshot 2024-01-18 at 10.13.36 PM.png](/img/user/Media/Screenshot%202024-01-18%20at%2010.13.36%E2%80%AFPM.png)
 
-And... that's enough for now.  Time to 😎 or  💤.
+And... that's enough for now. 
+
+Time to 😎 or  💤... whatever feels right.
+
+It's the weekend.
 
 
 
