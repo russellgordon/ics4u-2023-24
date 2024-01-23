@@ -49,11 +49,11 @@
 		- This is for [the Digital Garden software](https://dg-docs.ole.dev) that Mr. Gordon uses to publish this website.
 1. Video: [How We Start Apps: Behind the Scenes of Kino](https://www.youtube.com/watch?v=xB_EkVCHZVg)
 	- A look at how a well-regarded iOS development company launched a new app.
-2. Activity: Discuss Group Software Development Opportunities
+1. Activity: Discuss Group Software Development Opportunities
 	- As a class, we will decide [[Activities/Possible Group Software Development Initiatives\|what initiatives to pursue]].
 
 ###### Things to do for Evening Study
-- Link to the issues you have been assigned and made progress on.
+- Make a post on Notion. Identify the top three [[Activities/Possible Group Software Development Initiatives\|app projects]] you would most be interested in working on, and why. Be sure to link to each app idea.
 
 
 
