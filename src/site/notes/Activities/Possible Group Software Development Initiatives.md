@@ -36,9 +36,11 @@ This would be great if transitioned to a more modern device such as an iPad or i
 
 ### Talking Forest
 
-Ms. Dalrymple's idea – a way to tell the story of Northcote through walking.
+Ms. Dalrymple's idea – a way to tell the story of the Northcote and main LCS campuses through walking.
 
 Involves using geo-fencing to activate content within an app based on where a person (or more accurately, their phone) is located.
+
+Here is the [3-minute video shared in class](https://globalnews.ca/video/8493730/the-talking-forest-hear-stories-from-the-trees-in-lindsay-ont) and a [written overview of the app](https://www.kawarthaconservation.com/en/learn-and-get-involved/the-talking-forest.aspx) as authored for a conservation area in the Lindsay area.
 
 ### Lakefield History
 
