@@ -8,6 +8,7 @@
 
 ### Thread 2
 
+- [[All Prior Classes#Thread 2, Day 9 - Wednesday, January 24, 2024\|Day 9 - Wednesday, January 24, 2024]]
 - [[All Prior Classes#Thread 2, Day 8 - Tuesday, January 23, 2024\|Day 8 - Tuesday, January 23, 2024]]
 - [[All Prior Classes#Thread 2, Day 7 - Friday, January 19, 2024\|Day 7 - Friday, January 19, 2024]]
 - [[All Prior Classes#Thread 2, Day 6 - Thursday, January 18, 2024\|Day 6 - Thursday, January 18, 2024]]
@@ -16,6 +17,7 @@
 - [[All Prior Classes#Thread 2, Day 3 - Friday, January 12, 2024\|Day 3 - Friday, January 12, 2024]]
 - [[All Prior Classes#Thread 2, Day 2 - Thursday, January 11, 2024\|Day 2 - Thursday, January 11, 2024]]
 - [[All Prior Classes#Thread 2, Day 1 - Tuesday, January 9, 2024\|Day 1 - Tuesday, January 9, 2024]]
+
 ### Thread 1
 
 - [[All Prior Classes#Thread 1, Day 15 - Thursday, November 16, 2023\|Day 15 - Thursday, November 16, 2023]]
@@ -34,6 +36,34 @@
 - [[All Prior Classes#Thread 1, Day 2 - Wednesday, October 18, 2023\|Day 2 - Wednesday, October 18, 2023]]
 - [[All Prior Classes#Thread 1, Day 1 - Tuesday, October 17, 2023\|Day 1 - Tuesday, October 17, 2023]]
 
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-2/day-9/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+### Thread 2, Day 9 - Wednesday, January 24, 2024
+#### Agenda
+
+1. Discussion: App Dev Teams
+2. Activity: [[Activities/User Stories\|User Stories]]
+3. Setup: [Install Keynote](https://apps.apple.com/ca/app/keynote/id409183694?mt=12)
+4. Activity: [60 Second Prototyping](https://developer.apple.com/wwdc17/818)
+	- Review this [completed prototype file in Keynote](https://education-static.apple.com/coding-club-kit/xcode-prototype.key).
+	- Using these [iOS Design elements](https://devimages-cdn.apple.com/design/resources/download/iOS-16-Keynote.dmg), adapt the completed prototype file to instead be a prototype for your app.
+	- In an upcoming class, you will demonstrate your prototype to potential user(s) of your app and collect feedback.
+
+###### Things to do for Evening Study
+- Make progress on the prototype.
+	- Different team members can work on different parts of the app interface, if necessary. 
+	- Slides can be merged next class into a single Keynote file.
+
+
+
+
+</div></div>
+
+<small>[[All Prior Classes#Thread 2\|Back to top of thread 2 ⬆]]</small>
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-2/day-8/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
