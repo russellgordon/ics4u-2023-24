@@ -29,4 +29,6 @@ For example:
 
 Together with your partner, write as many user stories as you can think of for your app.
 
-Add these to a Google doc that is shared by both of you in your Notion portfolio.
+## Submission
+
+Add these user stories to a Google doc that is shared by both of you in your Notion portfolio.
