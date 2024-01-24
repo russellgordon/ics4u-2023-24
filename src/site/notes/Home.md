@@ -4,25 +4,26 @@
 
 ## Most Recent Class
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-2/day-8/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-2/day-9/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-### Thread 2, Day 8 - Tuesday, January 23, 2024
+### Thread 2, Day 9 - Wednesday, January 24, 2024
 #### Agenda
 
-1. Concept: Software Development Lifecycle
-	- A comparison of "waterfall" and Agile approaches.
-	- Here is an [example of a status board for a project on GitHub](https://github.com/users/oleeskild/projects/1) being developed using an Agile methodology.
-		- This is for [the Digital Garden software](https://dg-docs.ole.dev) that Mr. Gordon uses to publish this website.
-1. Video: [How We Start Apps: Behind the Scenes of Kino](https://www.youtube.com/watch?v=xB_EkVCHZVg)
-	- A look at how a well-regarded iOS development company launched a new app.
-1. Activity: Discuss Group Software Development Opportunities
-	- As a class, we will decide [[Activities/Possible Group Software Development Initiatives\|what initiatives to pursue]].
+1. Discussion: App Dev Teams
+2. Activity: [[Activities/User Stories\|User Stories]]
+3. Setup: [Install Keynote](https://apps.apple.com/ca/app/keynote/id409183694?mt=12)
+4. Activity: [60 Second Prototyping](https://developer.apple.com/wwdc17/818)
+	- Review this [completed prototype file in Keynote](https://education-static.apple.com/coding-club-kit/xcode-prototype.key).
+	- Using these [iOS Design elements](https://devimages-cdn.apple.com/design/resources/download/iOS-16-Keynote.dmg), adapt the completed prototype file to instead be a prototype for your app.
+	- In an upcoming class, you will demonstrate your prototype to potential user(s) of your app and collect feedback.
 
 ###### Things to do for Evening Study
-- Make a post on Notion. Identify the top three [[Activities/Possible Group Software Development Initiatives\|app projects]] you would most be interested in working on, and why. Be sure to link to each app idea.
+- Make progress on the prototype.
+	- Different team members can work on different parts of the app interface, if necessary. 
+	- Slides can be merged next class into a single Keynote file.
 
 
 
