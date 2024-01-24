@@ -18,12 +18,10 @@
 4. Activity: [60 Second Prototyping](https://developer.apple.com/wwdc17/818)
 	- Review this [completed prototype file in Keynote](https://education-static.apple.com/coding-club-kit/xcode-prototype.key).
 	- Using these [iOS Design elements](https://devimages-cdn.apple.com/design/resources/download/iOS-16-Keynote.dmg), adapt the completed prototype file to instead be a prototype for your app.
-	- In an upcoming class, you will demonstrate your prototype to potential user(s) of your app and collect feedback.
+	- In our next class, Mr. Gordon will demonstrate how to use the most important features of Keynote for building prototypes – you will then have a working period with your partner to develop a prototype in Keynote.
 
 ###### Things to do for Evening Study
-- Make progress on the prototype.
-	- Different team members can work on different parts of the app interface, if necessary. 
-	- Slides can be merged next class into a single Keynote file.
+- Finish the user stories for your team's app, being sure to [[Activities/User Stories#User Roles and Stories\|submit your work as described]].
 
 
 
