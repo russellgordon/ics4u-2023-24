@@ -76,6 +76,14 @@ When the package is picked up, the community member just needs to scan the packa
 
 Would require cloud syncing, likely with Firebase.
 
+### Check In
+
+An app that scans QR codes printed on the back of LCS keycards.
+
+A faculty member will use the app to check-in students to breakfast in the Dining Hall, and potentially in other locations such as Math Evening Support, the Evening Support Program, Saturday Study, or within groups during Intersession Days.
+
+When the QR code is scanned, information about which student checked-in is sent to a Google Sheet for summarization and follow-up as needed.
+
 ### AED Finder
 
 Tells you where, and provides mapping guidance to find, automatic emergency defibrillator devices within the LCS and the broader community.
