@@ -4,25 +4,23 @@
 
 ## Most Recent Class
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-2/day-9/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-2/day-10/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-### Thread 2, Day 9 - Wednesday, January 24, 2024
+### Thread 2, Day 10 - Thursday, January 25, 2024
 #### Agenda
 
-1. Discussion: App Dev Teams
-2. Activity: [[Activities/User Stories\|User Stories]]
-3. Setup: [Install Keynote](https://apps.apple.com/ca/app/keynote/id409183694?mt=12)
-4. Activity: [60 Second Prototyping](https://developer.apple.com/wwdc17/818)
+1. Setup: [Install Keynote](https://apps.apple.com/ca/app/keynote/id409183694?mt=12)
+	- Please install or update Keynote if you have not done so already.
+2. Activity: [60 Second Prototyping](https://developer.apple.com/wwdc17/818)
 	- Review this [completed prototype file in Keynote](https://education-static.apple.com/coding-club-kit/xcode-prototype.key).
 	- Using these [iOS Design elements](https://devimages-cdn.apple.com/design/resources/download/iOS-16-Keynote.dmg), adapt the completed prototype file to instead be a prototype for your app.
-	- In our class on Friday, Mr. Gordon will demonstrate how to use the most important features of Keynote for building prototypes.
-		- You will then have a working period with your partner to develop a prototype in Keynote.
+	- With your partner, use this working period to develop a prototype for your assigned app in Keynote.
 
-###### Things to do for Evening Study
-- Finish the user stories for your team's app, being sure to [[Activities/User Stories#User Roles and Stories\|submit your work as described]].
+###### Things to do this weekend
+- As needed, co-ordinate with your partner to finish this first prototype of your app.
 
 
 
