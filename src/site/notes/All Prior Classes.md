@@ -8,6 +8,7 @@
 
 ### Thread 2
 
+- [[All Prior Classes#Thread 2, Day 11 - Friday, January 26, 2024\|Day 11 - Friday, January 26, 2024]]
 - [[All Prior Classes#Thread 2, Day 10 - Thursday, January 25, 2024\|Day 10 - Thursday, January 25, 2024]]
 - [[All Prior Classes#Thread 2, Day 9 - Wednesday, January 24, 2024\|Day 9 - Wednesday, January 24, 2024]]
 - [[All Prior Classes#Thread 2, Day 8 - Tuesday, January 23, 2024\|Day 8 - Tuesday, January 23, 2024]]
@@ -38,6 +39,34 @@
 - [[All Prior Classes#Thread 1, Day 1 - Tuesday, October 17, 2023\|Day 1 - Tuesday, October 17, 2023]]
 
 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-2/day-11/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+### Thread 2, Day 11 - Friday, January 26, 2024
+#### Agenda
+
+1. Concept: [[Concepts/Source Control Within a Team\|Source Control Within a Team]]
+	- Learn the theory of how to contribute to a team effort using the *fork and branch* source control model.
+2. Task: Create Forks of Project Repositories
+	- The project manager has created primary repositories for each project.
+	- Create your fork of your project repository.
+	- Complete the first issue that has been assigned to you, using the [[Concepts/Source Control Within a Team#Detailed steps\|workflow we just examined]].
+3. Activity: Time to Work on Prototypes
+	- For any time remaining in class, work with your partner to refine the Keynote-based prototypes of your app.
+	- In our next class, you will collect feedback from potential end-users about your prototype.
+
+###### Things to do this weekend
+- As needed, co-ordinate with your partner to finish this first prototype of your app.
+
+
+
+
+</div></div>
+
+<small>[[All Prior Classes#Thread 2\|Back to top of thread 2 ⬆]]</small>
+
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-2/day-10/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
@@ -53,8 +82,8 @@
 	- Using these [iOS Design elements](https://devimages-cdn.apple.com/design/resources/download/iOS-16-Keynote.dmg), adapt the completed prototype file to instead be a prototype for your app.
 	- With your partner, use this working period to develop a prototype for your assigned app in Keynote.
 
-###### Things to do this weekend
-- As needed, co-ordinate with your partner to finish this first prototype of your app.
+###### Things to do for Evening Study
+- As needed, co-ordinate with your partner to make progress on a first prototype of your app.
 
 
 
