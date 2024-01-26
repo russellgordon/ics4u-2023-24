@@ -12,7 +12,7 @@
 	- Using these [iOS Design elements](https://devimages-cdn.apple.com/design/resources/download/iOS-16-Keynote.dmg), adapt the completed prototype file to instead be a prototype for your app.
 	- With your partner, use this working period to develop a prototype for your assigned app in Keynote.
 
-###### Things to do this weekend
-- As needed, co-ordinate with your partner to finish this first prototype of your app.
+###### Things to do for Evening Study
+- As needed, co-ordinate with your partner to make progress on a first prototype of your app.
 
 
