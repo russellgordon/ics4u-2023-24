@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/source-control-within-a-team/"}
+{"dg-publish":true,"permalink":"/concepts/source-control-within-a-team/","dgShowToc":true}
 ---
 
 # Working on Issues in a Team
