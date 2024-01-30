@@ -4,26 +4,24 @@
 
 ## Most Recent Class
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-2/day-11/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-2/day-12/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-### Thread 2, Day 11 - Friday, January 26, 2024
+### Thread 2, Day 12 - Tuesday, January 30, 2024
 #### Agenda
 
-1. Concept: [[Concepts/Source Control Within a Team\|Source Control Within a Team]]
-	- Learn the theory of how to contribute to a team effort using the *fork and branch* source control model.
-2. Task: Create Forks of Project Repositories
-	- The project manager has created primary repositories for each project.
-	- Create your fork of your project repository.
-	- Complete the first issue that has been assigned to you, using the [[Concepts/Source Control Within a Team#Detailed steps\|workflow we just examined]].
-3. Activity: Time to Work on Prototypes
-	- For any time remaining in class, work with your partner to refine the Keynote-based prototypes of your app.
-	- In our next class, you will collect feedback from potential end-users about your prototype.
+1. Activity: Prototype Demonstrations
+	- For teams that have a user they can speak with, today will involve showing your prototype to that user and collecting feedback.
+2. Activity: Creating Project Kanban Boards
+	- For each project, we will meet as a team and create your Kanban board based on the user stories you wrote and the user feedback you received from prototypes.
+	- A [Kanban board](https://www.atlassian.com/agile/kanban/boards) is a way of organizing project priorities.
+	- Here is [one example of a live Kanban board](https://github.com/users/oleeskild/projects/1) for the Obsidian Digital Garden plugin, which is used to build this very website.
+3. Working Period: Time to Complete Assigned Project Task(s)
 
-###### Things to do this weekend
-- As needed, co-ordinate with your partner to finish this first prototype of your app.
+###### Things to do for Evening Study
+- You have been assigned an issue from your team's Kanban board; you are to make clear progress on that issue, or complete it if possible.
 
 
 
