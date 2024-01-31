@@ -49,12 +49,6 @@
 ### Thread 2, Day 13 - Wednesday, January 31, 2024
 #### Agenda
 
-> [!IMPORTANT]
-> 
-> For the first few minutes of today's class, Mr. Gordon will be working with Morgan and Lewis to begin a video call with an external speaker who is providing feedback on an app prototype.
-> 
-> **Please look on the side board (to the left)** to understand what you can work on for the first 20 minutes or so of today's class.
-
 1. Activity: Set Project Priorities
 	- Each project team will meet with the project manager and finish setting up our Kanban boards.
 	- Project home pages:
