@@ -6,6 +6,10 @@
 
 ## Table of Contents
 
+### Thread 3
+
+- [[All Prior Classes#Thread 3, Day 1 - Tuesday, March 5, 2024\|Day 1 - Tuesday, March 5, 2024]]
+
 ### Thread 2
 
 - [[All Prior Classes#Thread 2, Day 13 - Wednesday, January 31, 2024\|Day 13 - Wednesday, January 31, 2024]]
@@ -39,6 +43,40 @@
 - [[All Prior Classes#Thread 1, Day 3 - Thursday, October 19, 2023\|Day 3 - Thursday, October 19, 2023]]
 - [[All Prior Classes#Thread 1, Day 2 - Wednesday, October 18, 2023\|Day 2 - Wednesday, October 18, 2023]]
 - [[All Prior Classes#Thread 1, Day 1 - Tuesday, October 17, 2023\|Day 1 - Tuesday, October 17, 2023]]
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-3/day-1/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+### Thread 3, Day 1 - Tuesday, March 5, 2024
+#### Agenda
+
+1. Activity: Standup Meetings
+	- Ultra-brief meetings to assign issues within a team.
+2. Working Period: Time to Complete Assigned Project Task(s)
+	- Progress, or clear documentation in each issue of what was attempted, is expected.
+	- An *ultra-brief* Notion post with a link to issue(s) you contributed to is required.
+	- Here is each group's project page:
+		- [Check In](https://github.com/orgs/lcs-apps/projects/8)
+		- [Gradient Maker](https://github.com/orgs/lcs-apps/projects/6)
+		- [Lakefield History](https://github.com/orgs/lcs-apps/projects/7)
+		- [Mailroom Assistant](https://github.com/orgs/lcs-apps/projects/5)
+		- [Musicals @ LCS](https://github.com/orgs/lcs-apps/projects/3)
+	> [!TIP]
+	> 
+	> Bookmark the project page for your app for faster lookup in the future. In most browsers you can make a bookmark with the **Command-D** keyboard shortcut.
+
+###### Things to do before our next class
+- [ ] Complete assigned tasks as described above, asking questions of Mr. Gordon as needed.
+
+
+
+</div></div>
+
+<small>[[All Prior Classes#Thread 3\|Back to top of thread 3 ⬆]]</small>
+
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-2/day-13/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
