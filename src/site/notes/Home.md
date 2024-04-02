@@ -9,15 +9,19 @@
 
 
 
+
 ### Thread 3, Day 3 - Tuesday, April 2, 2024
 #### Agenda
 
 1. Assessment and Evaluation for Thread 3
     - Discussion of how your progress will be assessed and evaluated
 2. Packet Posting: A Hands-on Activity
-	- We'll jump [on to Zoom](https://lakefieldcs.zoom.us/j/89753628615?pwd=sZ0atW0e8HgacnfjrMw6fJxn4QGYgd.1) to do some role play and to experience the [meaning of some of these key terms](https://drive.google.com/file/d/1RS-kR5Bv4ljxBE3ZyJCwX5KOaSFJ77if/view?usp=share_link)
+	- We'll jump on to Zoom to do some role play and to experience the [meaning of some of these key terms](https://drive.google.com/file/d/1RS-kR5Bv4ljxBE3ZyJCwX5KOaSFJ77if/view?usp=share_link)
 1. The Internet
 	- Learn how the physical layers (Ethernet, WiFi, fibre optic cable, et cetera), protocols (IP, TCP, HTTP, and others), work together to connect people around the world.
+	- To be completed via self-paced study: [Khan Academy AP CSP portal](https://drive.google.com/file/d/15eT60b84Z_uupuCHkPPs1xG1BY5nU5li/view?usp=share_link)
+	    - This is another decent option for building and checking general knowledge
+	    - Some time will be given now, in class, to get an account set up and to start using this
 2. Computing Innovations: Harmful and Beneficial Effects
     - What is a _computing innovation_?
         - How can an innovation have both _beneficial_ and _harmful_ effects?
