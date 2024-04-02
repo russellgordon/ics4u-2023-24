@@ -8,7 +8,7 @@
 1. Assessment and Evaluation for Thread 3
     - Discussion of how your progress will be assessed and evaluated
 2. Packet Posting: A Hands-on Activity
-	- We'll jump on to Zoom to do some role play and to experience the [meaning of some of these key terms](https://drive.google.com/file/d/1RS-kR5Bv4ljxBE3ZyJCwX5KOaSFJ77if/view?usp=share_link)
+	- We'll jump [on to Zoom](https://lakefieldcs.zoom.us/j/89753628615?pwd=sZ0atW0e8HgacnfjrMw6fJxn4QGYgd.1) to do some role play and to experience the [meaning of some of these key terms](https://drive.google.com/file/d/1RS-kR5Bv4ljxBE3ZyJCwX5KOaSFJ77if/view?usp=share_link)
 1. The Internet
 	- Learn how the physical layers (Ethernet, WiFi, fibre optic cable, et cetera), protocols (IP, TCP, HTTP, and others), work together to connect people around the world.
 2. Computing Innovations: Harmful and Beneficial Effects
