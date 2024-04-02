@@ -23,11 +23,12 @@
 	- To be completed via self-paced study: [Khan Academy AP CSP portal](https://drive.google.com/file/d/15eT60b84Z_uupuCHkPPs1xG1BY5nU5li/view?usp=share_link)
 	    - This is another decent option for building and checking general knowledge
 	    - Some time will be given now, in class, to get an account set up and to start using this
-2.[Computing Innovations: Harmful and Beneficial Effects](https://drive.google.com/file/d/18DDOBzGGP_klCYvDrW3hZmgRfICM48bs/view?usp=share_link)
+1. [Computing Innovations: Harmful and Beneficial Effects](https://drive.google.com/file/d/18DDOBzGGP_klCYvDrW3hZmgRfICM48bs/view?usp=share_link)
     - What is a _computing innovation_?
         - How can an innovation have both _beneficial_ and _harmful_ effects?
         - How can an innovation's effects be both _intended_ and _unintended_?
-        - What can be done to avoid bias in the development of computing innovations?
+        - What can be done to avoid bias in the development of computing innovations?- 
+
 
 ###### Things to do before our next class
 
