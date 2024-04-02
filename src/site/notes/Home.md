@@ -4,26 +4,35 @@
 
 ## Most Recent Class
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-3/day-2/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-3/day-3/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-### Thread 3, Day 2 - Wednesday, March 6, 2024
+### Thread 3, Day 3 - Tuesday, April 2, 2024
 #### Agenda
 
-1. Activity: Standup Meetings
-	- Ultra-brief status check-in.
-2. Working Period: Time to Complete Assigned Project Task(s)
-	- Progress, or clear documentation in each issue of what was attempted, is expected.
-	- An *ultra-brief* Notion post with a link to issue(s) you contributed to is required.
+1. Assessment and Evaluation for Thread 3
+    - Discussion of how your progress will be assessed and evaluated
+2. Packet Posting: A Hands-on Activity
+	- We'll jump on to Zoom to do some role play and to experience the [meaning of some of these key terms](https://drive.google.com/file/d/1RS-kR5Bv4ljxBE3ZyJCwX5KOaSFJ77if/view?usp=share_link)
+1. The Internet
+	- Learn how the physical layers (Ethernet, WiFi, fibre optic cable, et cetera), protocols (IP, TCP, HTTP, and others), work together to connect people around the world.
+2. Computing Innovations: Harmful and Beneficial Effects
+    - What is a _computing innovation_?
+        - How can an innovation have both _beneficial_ and _harmful_ effects?
+        - How can an innovation's effects be both _intended_ and _unintended_?
+        - What can be done to avoid bias in the development of computing innovations?
 
-###### Things to do before the end of class
-- [ ] Complete assigned tasks as described above, asking questions of Mr. Gordon as needed.
+###### Things to do before our next class
 
-> [!VACATION]
-> 
-> Have a restful, fun, and safe March Break! 😎 See you in April! 🌷
+- [ ] From Item 3, please post full-screen screenshot(s) of your results on quiz 1 from The Internet unit on Notion.
+- [ ] Then please complete *one* of these options:
+	- From Ruined by Design, read the excerpt titled "All the White Boys in the Room"
+	- Listen to episode 363 of the podcast 99% Invisible, titled "Invisible Women" (30 minutes)
+- ... then respond to the prompts given and post your responses on Notion.
+
+<!--	- Here are the [slides that contain the summary of key networking terms](https://drive.google.com/file/d/1oRE683-1lIOfWIWjWWt1ox9Le9z47f_k/view?usp=share_link) from this activity.-->
 
 </div></div>
 
