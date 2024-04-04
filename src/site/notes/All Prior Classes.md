@@ -8,6 +8,7 @@
 
 ### Thread 3
 
+- [[All Prior Classes#Thread 3, Day 4 - Thursday, April 4, 2024\|Day 4 - Thursday, April 4, 2024]]
 - [[All Prior Classes#Thread 3, Day 3 - Tuesday, April 2, 2024\|Day 3 - Tuesday, April 2, 2024]]
 - [[All Prior Classes#Thread 3, Day 2 - Wednesday, March 6, 2024\|Day 2 - Wednesday, March 6, 2024]]
 - [[All Prior Classes#Thread 3, Day 1 - Tuesday, March 5, 2024\|Day 1 - Tuesday, March 5, 2024]]
@@ -47,6 +48,38 @@
 - [[All Prior Classes#Thread 1, Day 1 - Tuesday, October 17, 2023\|Day 1 - Tuesday, October 17, 2023]]
 
 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-3/day-4/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+### Thread 3, Day 4 - Thursday, April 4, 2024
+#### Agenda
+
+1. Safe Computing: Personally Identifiable Information and Data Tracking
+	- As a class, we will explore what personally identifiable information (PII) is and how to control access to your PII
+	- For the remainder of the class and for Study this evening, please [complete these tasks](https://drive.google.com/file/d/1S9I8pfsp-AAjVfHras0MQ7FDJlkPrSH0/view?usp=share_link)
+		- Please also share full-screen screenshots of your results on Quizzes 1 and 2 from these sections [on Notion](https://notion.so).
+
+###### Things to do before our next class
+
+- [ ] Complete [assigned tasks](https://drive.google.com/file/d/1S9I8pfsp-AAjVfHras0MQ7FDJlkPrSH0/view?usp=share_link) to further learn about PII and data security, then share your quiz results [on Notion](https://notion.so)
+- [ ] Review your notes to prepare for tomorrow's quiz (see below)
+
+###### Upcoming events
+
+- Tomorrow, in class...
+	- Quiz (short answer, multiple choice)
+		- High-level topics are:
+			- Data, Networks, Impact of Computing, Safe Computing
+		- How to prepare:
+			- Complete all assigned Study tasks given so far in this thread of study.
+
+</div></div>
+
+<small>[[All Prior Classes#Thread 3\|Back to top of thread 3 ⬆]]</small>
+
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-3/day-3/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
@@ -70,7 +103,7 @@
     - What is a _computing innovation_?
         - How can an innovation have both _beneficial_ and _harmful_ effects?
         - How can an innovation's effects be both _intended_ and _unintended_?
-        - What can be done to avoid bias in the development of computing innovations?- 
+        - What can be done to avoid bias in the development of computing innovations? 
 
 
 ###### Things to do before our next class
