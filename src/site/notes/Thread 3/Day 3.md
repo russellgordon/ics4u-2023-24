@@ -20,7 +20,7 @@
     - What is a _computing innovation_?
         - How can an innovation have both _beneficial_ and _harmful_ effects?
         - How can an innovation's effects be both _intended_ and _unintended_?
-        - What can be done to avoid bias in the development of computing innovations?- 
+        - What can be done to avoid bias in the development of computing innovations? 
 
 
 ###### Things to do before our next class
