@@ -13,7 +13,7 @@
 ### Thread 3, Day 5 - Friday, April 5, 2024
 #### Agenda
 
-1. Quiz: Data, Networks, Impact of Computing
+1. Quiz: Data, Networks, Impact of Computing, Safe Computing
 	- Check your knowledge of topics we looked at this week.
 2. [[Concepts/Extracting Information From Data\|Extracting Information From Data]]
 	- With software, we can re-organize and summarize vast quantities of data.
@@ -38,9 +38,13 @@ ___
 
 
 
-> [!NOTE]
-> 
-> No Grove Time sessions this week.
+Day|Time|Location
+-|-|-
+Friday|1:30 PM to 2 PM|Room 36
+
+Grove Time is a drop-in, no appointment needed.
+
+If you have a question, **don't hesitate**, come on by!
 
 </div></div>
 
