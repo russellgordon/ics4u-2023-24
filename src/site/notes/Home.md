@@ -4,33 +4,26 @@
 
 ## Most Recent Class
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-3/day-4/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-3/day-5/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
 
-### Thread 3, Day 4 - Thursday, April 4, 2024
+### Thread 3, Day 5 - Friday, April 5, 2024
 #### Agenda
 
-1. [Safe Computing: Personally Identifiable Information and Data Tracking](https://drive.google.com/file/d/1wiUXkBs1_ob9QteFldPrhrokh8gedR7j/view?usp=share_link)
-	- As a class, we will explore what personally identifiable information (PII) is and how to control access to your PII
-	- For the remainder of the class and for Study this evening, please [complete these tasks](https://drive.google.com/file/d/1S9I8pfsp-AAjVfHras0MQ7FDJlkPrSH0/view?usp=share_link)
-		- Please also share full-screen screenshots of your results on Quizzes 1 and 2 from these sections [on Notion](https://notion.so).
+1. Quiz: Data, Networks, Impact of Computing
+	- Check your knowledge of topics we looked at this week.
+2. [[Concepts/Extracting Information From Data\|Extracting Information From Data]]
+	- With software, we can re-organize and summarize vast quantities of data.
+	- Complete this activity to take a deeper dive into this idea, and gain knowledge for AP CSP Big Idea #2.
 
 ###### Things to do before our next class
 
-- [ ] Complete [assigned tasks](https://drive.google.com/file/d/1S9I8pfsp-AAjVfHras0MQ7FDJlkPrSH0/view?usp=share_link) to further learn about PII and data security, then share your quiz results [on Notion](https://notion.so)
-- [ ] Review your notes to prepare for tomorrow's quiz (see below)
+- [ ] Please complete [[Concepts/Extracting Information From Data\|today's activity]], being certain to take notes and answer the [[Concepts/Extracting Information From Data#Questions to Consider\|questions to consider]].
+- [ ] **Be ready for the in-class discussion on Bias in Computing** by completing item 2 from the [[Thread 3/Day 3#Things to do before our next class\|day 3 list of "things to do"]].
 
-###### Upcoming events
-
-- Tomorrow, in class...
-	- Quiz (short answer, multiple choice)
-		- High-level topics are:
-			- Data, Networks, Impact of Computing, Safe Computing
-		- How to prepare:
-			- Complete all assigned Study tasks given so far in this thread of study.
 
 </div></div>
 
