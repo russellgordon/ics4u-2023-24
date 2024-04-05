@@ -16,7 +16,7 @@
 - [ ] Complete [assigned tasks](https://drive.google.com/file/d/1S9I8pfsp-AAjVfHras0MQ7FDJlkPrSH0/view?usp=share_link) to further learn about PII and data security, then share your quiz results [on Notion](https://notion.so)
 - [ ] Review your notes to prepare for tomorrow's quiz (see below)
 
-#### Upcoming events
+###### Upcoming events
 
 - Tomorrow, in class...
 	- Quiz (short answer, multiple choice)
