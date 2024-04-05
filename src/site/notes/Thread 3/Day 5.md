@@ -15,3 +15,4 @@
 ###### Things to do before our next class
 
 - [ ] Please complete [[Concepts/Extracting Information From Data\|today's activity]], being certain to take notes and answer the [[Concepts/Extracting Information From Data#Questions to Consider\|questions to consider]].
+- [ ] **Be ready for the in-class discussion on Bias in Computing** by completing item 2 from the [[Thread 3/Day 3#Things to do before our next class\|day 3 list of "things to do"]].
