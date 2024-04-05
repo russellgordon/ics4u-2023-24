@@ -8,6 +8,7 @@
 
 ### Thread 3
 
+- [[All Prior Classes#Thread 3, Day 5 - Friday, April 5, 2024\|Day 5 - Friday, April 5, 2024]]
 - [[All Prior Classes#Thread 3, Day 4 - Thursday, April 4, 2024\|Day 4 - Thursday, April 4, 2024]]
 - [[All Prior Classes#Thread 3, Day 3 - Tuesday, April 2, 2024\|Day 3 - Tuesday, April 2, 2024]]
 - [[All Prior Classes#Thread 3, Day 2 - Wednesday, March 6, 2024\|Day 2 - Wednesday, March 6, 2024]]
@@ -47,6 +48,31 @@
 - [[All Prior Classes#Thread 1, Day 2 - Wednesday, October 18, 2023\|Day 2 - Wednesday, October 18, 2023]]
 - [[All Prior Classes#Thread 1, Day 1 - Tuesday, October 17, 2023\|Day 1 - Tuesday, October 17, 2023]]
 
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-3/day-5/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+### Thread 3, Day 5 - Friday, April 5, 2024
+#### Agenda
+
+1. Quiz: Data, Networks, Impact of Computing
+	- Check your knowledge of topics we looked at this week.
+2. [[Concepts/Extracting Information From Data\|Extracting Information From Data]]
+	- With software, we can re-organize and summarize vast quantities of data.
+	- Complete this activity to take a deeper dive into this idea, and gain knowledge for AP CSP Big Idea #2.
+
+###### Things to do before our next class
+
+- [ ] Please complete [[Concepts/Extracting Information From Data\|today's activity]], being certain to take notes and answer the [[Concepts/Extracting Information From Data#Questions to Consider\|questions to consider]].
+- [ ] **Be ready for the in-class discussion on Bias in Computing** by completing item 2 from the [[Thread 3/Day 3#Things to do before our next class\|day 3 list of "things to do"]].
+
+
+</div></div>
+
+<small>[[All Prior Classes#Thread 3\|Back to top of thread 3 ⬆]]</small>
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-3/day-4/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
