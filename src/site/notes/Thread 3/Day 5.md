@@ -6,7 +6,7 @@
 ### Thread 3, Day 5 - Friday, April 5, 2024
 #### Agenda
 
-1. Quiz: Data, Networks, Impact of Computing
+1. Quiz: Data, Networks, Impact of Computing, Safe Computing
 	- Check your knowledge of topics we looked at this week.
 2. [[Concepts/Extracting Information From Data\|Extracting Information From Data]]
 	- With software, we can re-organize and summarize vast quantities of data.
