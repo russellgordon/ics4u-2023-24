@@ -13,7 +13,7 @@
 	- This diagnostic will give you a roadmap to what topics you need to focus on to fill in gaps in your own knowledge before the end of this module.
 2. [Simulations](https://drive.google.com/file/d/173I1ME5ZiKGbF_f0VY8bWTobSjiyITIJ/view?usp=share_link)
 	- Review the lesson.
-	- Complete the exercises given on the final.
+	- Complete the exercises given on the [final slide](https://drive.google.com/file/d/173I1ME5ZiKGbF_f0VY8bWTobSjiyITIJ/view?usp=share_link).
 
 ###### Things to do before our next class
 
