@@ -10,7 +10,7 @@
 	- We will use the [Text Rendering Experience protocol](https://www.schoolreforminitiative.org/download/the-text-rendering-experience/?wpdmdl=12645&refresh=642bf8bbe72b71680603323&open=1) to construct some meaning from our [reading](https://drive.google.com/file/d/1H0gIzhQm2oP_uXZuoJA5JnmXnFcbrCnx/view?usp=share_link) or [listening](https://99percentinvisible.org/episode/invisible-women/) from yesterday's class.
 	> [!NOTE] 
 	> 
-	> Mr. Gordon will post a document with a summary of the conversation after this class.
+	> Here are the [sentences, phrases, and words shared](https://docs.google.com/document/d/1P6Ut_MxxfoWCJEWtvrP3Sozql-5rb2UXUCIEMw7wZZs/edit?usp=sharing) by participants in this conversation today in class.
 1. [[Concepts/Abstraction and Binary Numbers\|Abstraction and Binary Numbers]]
 	- With software, we can re-organize and summarize vast quantities of data.
 	- Complete this activity to take a deeper dive into this idea, and gain knowledge for AP CSP Big Idea #2.
