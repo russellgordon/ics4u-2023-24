@@ -4,33 +4,27 @@
 
 ## Most Recent Class
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-3/day-6/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-3/day-7/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
 
-### Thread 3, Day 6 - Tuesday, April 9, 2024
+### Thread 3, Day 7 - Wednesday, April 10, 2024
 #### Agenda
 
-1. Debrief: Effects of Computing Innovations
-	- We will use the [Text Rendering Experience protocol](https://www.schoolreforminitiative.org/download/the-text-rendering-experience/?wpdmdl=12645&refresh=642bf8bbe72b71680603323&open=1) to construct some meaning from our [reading](https://drive.google.com/file/d/1H0gIzhQm2oP_uXZuoJA5JnmXnFcbrCnx/view?usp=share_link) or [listening](https://99percentinvisible.org/episode/invisible-women/) from yesterday's class.
-	> [!NOTE] 
-	> 
-	> Here are the [sentences, phrases, and words shared](https://docs.google.com/document/d/1P6Ut_MxxfoWCJEWtvrP3Sozql-5rb2UXUCIEMw7wZZs/edit?usp=sharing) by participants in this conversation today in class.
-1. [[Concepts/Abstraction and Binary Numbers\|Abstraction and Binary Numbers]]
-	- With software, we can re-organize and summarize vast quantities of data.
-	- Complete this activity to take a deeper dive into this idea, and gain knowledge for AP CSP Big Idea #2.
-2. [Safe Computing: User Authentication](https://drive.google.com/file/d/1Y4UCP3W2BgTblKPg36t1cU7A0n2DThb7/view?usp=share_link)
-	- What is a strong password?
-	- What is a password manager?
-	- Multi-factor authentication
+1. AP CSP: Diagnostic Exam (In-class)
+	- You already know most, but not quite everything, you need to write the exam.
+	- We will use today's class to complete a diagnostic exam.
+	- You will self-grade results in Thursday's class.
+	- This diagnostic will give you a roadmap to what topics you need to focus on to fill in gaps in your own knowledge before the end of this module.
+2. [Simulations](https://drive.google.com/file/d/173I1ME5ZiKGbF_f0VY8bWTobSjiyITIJ/view?usp=share_link)
+	- Review the lesson.
+	- Complete the exercises given on the [final slide](https://drive.google.com/file/d/173I1ME5ZiKGbF_f0VY8bWTobSjiyITIJ/view?usp=share_link).
 
 ###### Things to do before our next class
 
-- [ ] Please complete the [[Concepts/Abstraction and Binary Numbers#Exercises\|Abstraction and Binary Numbers exercises]].
-- [ ] Then complete [these exercises connected to user authentication](https://drive.google.com/file/d/1WfWT6jlZP95_OlGnV3YmA9xe6ZueMa1O/view?usp=share_link).
-
+- [ ] Please complete the lesson and exercises on [Simulations](https://drive.google.com/file/d/173I1ME5ZiKGbF_f0VY8bWTobSjiyITIJ/view?usp=share_link).
 
 </div></div>
 
