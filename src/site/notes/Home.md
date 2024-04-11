@@ -15,8 +15,9 @@
 
 1. AP CSP: Diagnostic Exam Follow-up
 	- Take 5-10 minutes to self-grade your results on the diagnostic exam.
-	- Then complete the [Diagnostic Exam Inventory](https://www.russellgordon.ca/lcs/2023-24/ics4u/AP_CSP_Diagnostic_-_Analysis.pdf) to determine what big ideas you need to focus most on learning.
-	- Take a photo of your exam inventory and share the results in a [portfolio post on Notion](https://notion.so).
+		- Use [this answer key](https://drive.google.com/file/d/19VtGH1WmNOU6CnbJkk4Z5o0gytWDd09T/view?usp=share_link) – if you have your physical copy of the 5 Steps to a 5 book with you, you can use that instead (pages 29 to 34).
+		- As you check answers, complete the [Diagnostic Exam Inventory](https://www.russellgordon.ca/lcs/2023-24/ics4u/AP_CSP_Diagnostic_-_Analysis.pdf) to determine what big ideas you need to focus most on learning.
+	- Take a photo of your exam results and inventory and share that photo in a [portfolio post on Notion](https://notion.so).
 1. [Data: Lossy vs. Lossless Compression](https://drive.google.com/file/d/14VuZ6-hI2y1cZgHs-pVNB91k7y_osufI/view?usp=share_link)
 	- How is color represented digitally?
 	- How can data be compressed to use less storage space?
