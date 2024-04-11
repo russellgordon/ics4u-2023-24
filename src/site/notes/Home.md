@@ -4,27 +4,31 @@
 
 ## Most Recent Class
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-3/day-7/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-3/day-8/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
 
-### Thread 3, Day 7 - Wednesday, April 10, 2024
+### Thread 3, Day 8 - Thursday, April 11, 2024
 #### Agenda
 
-1. AP CSP: Diagnostic Exam (In-class)
-	- You already know most, but not quite everything, you need to write the exam.
-	- We will use today's class to complete a diagnostic exam.
-	- You will self-grade results in Thursday's class.
-	- This diagnostic will give you a roadmap to what topics you need to focus on to fill in gaps in your own knowledge before the end of this module.
-2. [Simulations](https://drive.google.com/file/d/173I1ME5ZiKGbF_f0VY8bWTobSjiyITIJ/view?usp=share_link)
-	- Review the lesson.
-	- Complete the exercises given on the [final slide](https://drive.google.com/file/d/173I1ME5ZiKGbF_f0VY8bWTobSjiyITIJ/view?usp=share_link).
+1. AP CSP: Diagnostic Exam Follow-up
+	- Take 5-10 minutes to self-grade your results on the diagnostic exam.
+	- Then complete the [Diagnostic Exam Inventory](https://www.russellgordon.ca/lcs/2023-24/ics4u/AP_CSP_Diagnostic_-_Analysis.pdf) to determine what big ideas you need to focus most on learning.
+	- Take a photo of your exam inventory and share the results in a [portfolio post on Notion](https://notion.so).
+1. [Data: Lossy vs. Lossless Compression](https://drive.google.com/file/d/14VuZ6-hI2y1cZgHs-pVNB91k7y_osufI/view?usp=share_link)
+	- How is color represented digitally?
+	- How can data be compressed to use less storage space?
+
+> [!TIP]
+> If you did not have time for this yesterday, be sure to review the lesson on [Simulations](https://drive.google.com/file/d/173I1ME5ZiKGbF_f0VY8bWTobSjiyITIJ/view?usp=share_link) and try [the related exercises](https://drive.google.com/file/d/1Xz6reMCSNHbrH-6HL1tvyv1RLio4oVB3/view?usp=share_link).
 
 ###### Things to do before our next class
 
-- [ ] Please complete the lesson and exercises on [Simulations](https://drive.google.com/file/d/173I1ME5ZiKGbF_f0VY8bWTobSjiyITIJ/view?usp=share_link).
+- [ ] Complete the exercises given for today's topics:
+	- [ Lossy vs. lossless compression](https://drive.google.com/file/d/1nhw1_fhG_UrcPJ1HuVkcu3dUZMYQ3eq2/view?usp=share_link)
+
 
 </div></div>
 
