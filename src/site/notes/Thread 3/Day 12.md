@@ -1,0 +1,23 @@
+---
+{"dg-publish":true,"permalink":"/thread-3/day-12/","dgHomeLink":true}
+---
+
+
+### Thread 3, Day 12 - Thursday, April 18, 2024
+#### Agenda
+
+1. [Parallel and Distributed Computing](https://drive.google.com/open?id=1hZHwrNQnWwmi_4xIQ6xBS_oTmx3dIX3Q&usp=drive_copy)
+	- When can a problem can be broken up into parts and solved in parallel, and when is this helpful for solving problems more quickly?
+	- You now have in-class time to complete the [module on Parallel and Distributed Computing](https://drive.google.com/open?id=1EGcewa-pepzomI5ve4Dy5y6YKy4E7gP-&usp=drive_copy) and its related formative quizzes.
+1. Quiz: Encryption, Algorithms, Heuristics, Parallel and Distributed Computing
+	- Check your knowledge of new topics we've looked at this week.
+
+###### Things to do before our next class
+
+- [ ] Use the [5 Steps to a 5 AP CSP website to practice](https://mhprofessional.benchprep.com/login) in the topic areas you most need to review prior to tomorrow's unit test.
+	- Topics for the unit test include [[All Prior Classes#Thread 3\|all the topics we have learned about in this module]].
+
+###### Upcoming events
+
+- Tomorrow – Friday – in class...
+	- Module 3 test
