@@ -27,4 +27,4 @@
 		- High-level topics are:
 			- Data, User Authentication, Simulations, Compression, Crowdsourcing, Digital Divide, Citizen Science
 		- How to prepare:
-			- Complete all assigned Study tasks given so far in this thread of study.
+			- Complete all assigned Study tasks since our last quiz.
