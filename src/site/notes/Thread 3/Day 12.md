@@ -6,9 +6,9 @@
 ### Thread 3, Day 12 - Thursday, April 18, 2024
 #### Agenda
 
-1. [Parallel and Distributed Computing](https://drive.google.com/open?id=1hZHwrNQnWwmi_4xIQ6xBS_oTmx3dIX3Q&usp=drive_copy)
+1. [Parallel and Distributed Computing](https://drive.google.com/file/d/1l5XL3bzQgY2huC0mVwn43v2E4qOpsOxc/view?usp=share_link)
 	- When can a problem can be broken up into parts and solved in parallel, and when is this helpful for solving problems more quickly?
-	- You now have in-class time to complete the [module on Parallel and Distributed Computing](https://drive.google.com/open?id=1EGcewa-pepzomI5ve4Dy5y6YKy4E7gP-&usp=drive_copy) and its related formative quizzes.
+	- You now have in-class time to complete the [module on Parallel and Distributed Computing](https://drive.google.com/file/d/1RT5ywHdafcpwi_Q0T20jZXOKLVK-SH7T/view?usp=share_link) and its related formative quizzes.
 1. Quiz: Encryption, Algorithms, Heuristics, Parallel and Distributed Computing
 	- Check your knowledge of new topics we've looked at this week.
 
