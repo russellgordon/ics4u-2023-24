@@ -773,7 +773,7 @@ The second option for accessing a view model from views within an app is to do s
 
 > [!TIP]
 > 
-> We first learned about the environment in [[Creating a To-do List App, Part 3#Add the context\|part 3 of this tutorial series]], when using SwiftData to persist information.
+> We first learned about the environment in [[Activities/Using Observable Classes, Part 2#3 – Add the context\|when learning to use SwiftData]] to persist information earlier this year.
 
 If you insert the view model instance into the environment from a root view, all subviews will have access to it through the environment.
 
