@@ -9,7 +9,7 @@
 
 
 
-### Thread 4, Day 1 - Tuesday, May 21, 2024
+### Thread 4, Day 2 - Wednesday, May 22, 2024
 #### Agenda
 
 1. Group Software Projects: Staying Organized
