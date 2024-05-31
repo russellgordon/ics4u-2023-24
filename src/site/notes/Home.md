@@ -9,7 +9,7 @@
 
 
 
-### Thread 4, Day 4 - Monday, May 27, 2024
+### Thread 4, Day 6 - Friday, May 31, 2024
 #### Agenda
 
 1. [Culminating Task: Building an App for an External Audience](https://drive.google.com/file/d/1OHXEhbi5CYiBmtdE4ryaPH981yRjSV2-/view?usp=share_link)
