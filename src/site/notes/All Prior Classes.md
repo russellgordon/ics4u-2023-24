@@ -8,6 +8,7 @@
 
 ### Thread 4
 
+- [[All Prior Classes#Thread 4, Day 7 - Saturday, June 1, 2024\|Day 7 - Saturday, June 1, 2024]]
 - [[All Prior Classes#Thread 4, Day 6 - Friday, May 31, 2024\|Day 6 - Friday, May 31, 2024]]
 - [[All Prior Classes#Thread 4, Day 5 - Tuesday, May 28, 2024\|Day 5 - Tuesday, May 28, 2024]]
 - [[All Prior Classes#Thread 4, Day 4 - Monday, May 27, 2024\|Day 4 - Monday, May 27, 2024]]
@@ -66,6 +67,28 @@
 - [[All Prior Classes#Thread 1, Day 1 - Tuesday, October 17, 2023\|Day 1 - Tuesday, October 17, 2023]]
 
 
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-4/day-7/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+### Thread 4, Day 7 - Saturday, June 1, 2024
+#### Agenda
+
+1. [Culminating Task: Building an App for an External Audience](https://drive.google.com/file/d/1OHXEhbi5CYiBmtdE4ryaPH981yRjSV2-/view?usp=share_link)
+	- Using the spreadsheet you made in our [[Thread 4/Day 6\|prior class]], use today's class to finish writing the narrative for your Choose Your Own Adventure story to authoring the narrative.
+		> [!TIP]
+		> 
+		> Optionally, you may use large language model software (ChatGPT, Gemini, et cetera) as a "co-intelligence" for writing. Put another way, do not have the model write the entire story for you, but use it as a creative partner to generate ideas that you flesh out. Have fun with this exercise of creative writing.
+
+###### Things to do before our next class
+- [ ] Make a portfolio post [on Notion](https://notion.so), where you:
+	- Summarize your progress with authoring your part of the story.
+
+</div></div>
+
+<small>[[All Prior Classes#Thread 4\|Back to top of thread 4 ⬆]]</small>
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-4/day-6/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
