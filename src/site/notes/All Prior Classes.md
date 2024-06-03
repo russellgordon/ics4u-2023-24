@@ -78,7 +78,7 @@
 #### Agenda
 
 1. [Culminating Task: Building an App for an External Audience](https://drive.google.com/file/d/1OHXEhbi5CYiBmtdE4ryaPH981yRjSV2-/view?usp=share_link)
-	- Today your group will use the [CYOA Template](https://www.russellgordon.ca/lcs/2023-24/ics4u/CYOATemplate-cloud-db.zip) to get started on your group's CYOA book.
+	- Today your group will use the [CYOA Template](https://www.russellgordon.ca/lcs/2023-24/ics4u/CYOATemplate.zip) to get started on your group's CYOA book.
 		- One member of your group will assume the project manager role and create your group's primary repository, with guidance from Mr. Gordon.
 		- The other group members will fork this repository; all contributions must be made according to the [[Concepts/Source Control Within a Team\|team source control workflow]] you used earlier this year.
 	- Your group will need the [database starter script](https://gist.githubusercontent.com/lcs-rgordon/057205e83a622c1abb48a09d9b9c6793/raw/e1ce13e699bda76b9846f24b17991a2695948287/database_starter.mssql).
