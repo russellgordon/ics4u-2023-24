@@ -8,6 +8,7 @@
 
 ### Thread 4
 
+- [[All Prior Classes#Thread 4, Day 9 - Tuesday, June 4, 2024\|Day 9 - Tuesday, June 4, 2024]]
 - [[All Prior Classes#Thread 4, Day 8 - Monday, June 3, 2024\|Day 8 - Monday, June 3, 2024]]
 - [[All Prior Classes#Thread 4, Day 7 - Saturday, June 1, 2024\|Day 7 - Saturday, June 1, 2024]]
 - [[All Prior Classes#Thread 4, Day 6 - Friday, May 31, 2024\|Day 6 - Friday, May 31, 2024]]
@@ -68,6 +69,30 @@
 - [[All Prior Classes#Thread 1, Day 1 - Tuesday, October 17, 2023\|Day 1 - Tuesday, October 17, 2023]]
 
 
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-4/day-9/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+### Thread 4, Day 9 - Tuesday, June 4, 2024
+#### Agenda
+
+1. [Culminating Task: Building an App for an External Audience](https://drive.google.com/file/d/1OHXEhbi5CYiBmtdE4ryaPH981yRjSV2-/view?usp=share_link)
+	- Today, we visit Lakefield District Public School for the third time, to meet again with our partners and [collect feedback](https://www.russellgordon.ca/lcs/2023-24/ics4u/ICS4U_-_App_Development_Partnership_-_Visit_3.pdf) on your minimally viable product – the MVP – of your group's CYOA app.
+	> [!NOTE]
+	> 
+	> Be certain you are taking careful notes from your partner(s) feedback.
+	> 
+	> Your eventual grade on this task relies in part on clear evidence that you implemented story and game elements based on the requirements and input received from your partner(s) at LDPS.
+
+###### Things to do before our next class
+- [ ] Make a portfolio post [on Notion](https://notion.so), where you:
+	- Share the photographs of the notes that you made today.
+
+</div></div>
+
+<small>[[All Prior Classes#Thread 4\|Back to top of thread 4 ⬆]]</small>
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-4/day-8/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
