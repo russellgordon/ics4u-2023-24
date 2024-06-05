@@ -14,7 +14,7 @@
 
 1. [Culminating Task: Building an App for an External Audience](https://drive.google.com/file/d/1OHXEhbi5CYiBmtdE4ryaPH981yRjSV2-/view?usp=share_link)
 	- To begin today's class, Mr. Gordon will guide each group with enabling source control.
-	- Then, work with your partners to extend the CYOA template that was provided so that it is customized, improved, and tailored to the interests of your partners at LDPS.
+	- Then, work with your partners to [[Tasks/Extending the CYOA Template\|extend the CYOA template]] that was provided so that it is customized, improved, and tailored to the interests of your partners at LDPS.
 	> [!NOTE]
 	> If needed, use the `GraphGenerator` app included with the CYOA template project to analyze your group's directed graph and correct any problems with your group's story, such as nodes (pages) without any edges connecting them to other nodes.
 	> 
