@@ -16,8 +16,15 @@
 	- First, please [make a copy of this template](https://docs.google.com/presentation/d/1Fcta3UmM9GBjBJCqf8GtYfGUwUJiy4Ltozio6lMUosg/copy)
 		- Then, immediately [submit a link to your interview slides](https://docs.google.com/forms/d/e/1FAIpQLSd6EJOnij6CMttrIHcGdfPuEX69dItoznv8GgtSEe0mY8E2ag/viewform)
 		- We will now discuss the prompts in the slide deck, and how to prepare for tomorrow's interview.
-		- Here is the order of interviews for tomorrow morning:
-			- ==(will be generated and added live in class)==
+		- Here is the order of interviews for tomorrow morning (as generated live in class):
+			1. Lewis
+			2. Quin
+			3. Lawrence
+			4. Justin H
+			5. Tom
+			6. David
+			7. Justin W
+			8. Morgan
 	- Second, one member of your group must generate the final version of your group's directed graph, and [submit the resulting file to this form](https://docs.google.com/forms/d/e/1FAIpQLSdjoOsLSdd1vCKs_SLcDzkZjyHq83Nq40-39vmj99jpPM9lwA/viewform).
 	> [!NOTE]
 	> You will use the `GraphGenerator` app included with the CYOA template project to generate your group's directed graph.
