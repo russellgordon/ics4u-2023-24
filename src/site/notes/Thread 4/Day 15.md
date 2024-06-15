@@ -15,7 +15,7 @@
 		7. Justin W
 		8. Morgan
 	- Please wait on the chair outside room 36 when your interview is next.
-		- For example, Seb will wait outside room 36 while Lola completes her interview, and so on.
+		- For example, Quin will wait outside room 36 while Morgan completes her interview, and so on.
 	- At some point this morning, please [complete the course feedback form](https://docs.google.com/forms/d/e/1FAIpQLSeIvc20xeordcHW-DibUwu5JjqPRpLFfAAcRB8wiunqh54YnQ/viewform).
 		- This form is anonymous.
 		- Your constructive feedback is valued – thank-you in advance for your time with this.
