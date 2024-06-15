@@ -23,5 +23,5 @@
 	  
 > [!IMPORTANT]
 > 
-> You will be dismissed at 11:30 AM. Please wait until I come out to dismiss you. Until then, to minimize traffic and noise in the academic block, please stay in Hadden Hall, with the exception essential trips to the washroom. 
+> You will be dismissed at 11:30 AM. Please wait until I come out to dismiss you. Until then, to minimize traffic and noise in the academic block, please stay in Hadden Hall, with the exception of essential trips to the washroom. 
 
